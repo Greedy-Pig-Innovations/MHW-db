@@ -1,4 +1,20 @@
+const {ailments, createOneAilment} = require('./ailments');
 const { client } = require("./client");
+
+
+const createAilments = async()=>{
+    console.log('\n\t CREATING ailments');
+    try{
+        console.log('\t trying...');
+
+        await Promise.all(ailments.map(createOneAilment));
+
+
+        console.log('\t ailments CREATED!\n');
+    }catch(err){
+        console.error(err);
+    }
+}
 
 
 /////////////////////////// INITIALIZE FUNCTIONS WITH POSTGRESQL /////////////////////////////  
@@ -110,7 +126,8 @@ const dropTables = async () => {
       client.connect();
       await dropTables();
       await createTables();
-  
+      await createAilments();
+
     } catch (error) {
       console.error("Error rebuilding database!");
       throw error;
