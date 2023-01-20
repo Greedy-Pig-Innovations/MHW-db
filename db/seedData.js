@@ -68,31 +68,70 @@ const dropTables = async () => {
       );
       CREATE TABLE decorations(
         id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL
+        name VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        slot INTEGER NOT NULL,
+        skills JSON[] NOT NULL
       );
       CREATE TABLE events(
         id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL
+        name VARCHAR(255) NOT NULL,
+        platform VARCHAR(255) NOT NULL,
+        exclusive VARCHAR(255) NOT NULL,
+        type VARCHAR(255) NOT NULL,
+        expansion BOOLEAN default false,
+        description TEXT NOT NULL,
+        requires TEXT NOT NULL,
+        rank INTEGER NOT NULL,
+        conditions TEXT NOT NULL,
+        location JSON NOT NULL
       );
       CREATE TABLE items(
         id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL
+        name VARCHAR(255) NOT NULL,
+        description TEXT NOT NULL,
+        rarity INTEGER NOT NULL,
+        "carryLimit" INTEGER NOT NULL,
+        value INTEGER NOT NULL
       );
       CREATE TABLE locations(
         id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL
+        name VARCHAR(255) NOT NULL,
+        zones INTEGER NOT NULL,
+        camps JSON[] NOT NULL
       );
       CREATE TABLE monsters(
         id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL
+        name VARCHAR(255) NOT NULL,
+        type VARCHAR(255) NOT NULL,
+        species VARCHAR(255) NOT NULL,
+        description TEXT NOT NULL,
+        elements TEXT[] NOT NULL,
+        ailments JSON[] NOT NULL,
+        locations JSON[] NOT NULL,
+        resistances JSON[] NOT NULL,
+        weakness JSON[] NOT NULL,
+        rewards JSON[] NOT NULL,
+        assets JSON NOT NULL
       );
       CREATE TABLE skills(
         id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL
+        name VARCHAR(255) NOT NULL,
+        description TEXT NOT NULL,
+        ranks JSON[] NOT NULL
       );
       CREATE TABLE weapons(
         id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL
+        name VARCHAR(255) NOT NULL,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL,
+        durability JSON[],
+        attributes JSON NOT NULL     
       ); 
 
       `);
