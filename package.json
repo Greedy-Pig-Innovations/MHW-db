@@ -1,7 +1,7 @@
 {
-  "name": "create-xk-back",
+  "name": "mhwback",
   "version": "1.0.0",
-  "description": "Simple backend template built on express",
+  "description": "MHW database including iceborne",
   "main": "index.js",
   "bin": "./bin/cli.js",
   "scripts": {
