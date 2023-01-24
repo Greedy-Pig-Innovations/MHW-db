@@ -1,5 +1,6 @@
 const {ailments, createOneAilment} = require('./ailments');
 const { client } = require("./client");
+const {test} = require("./test")
 
 
 const createAilments = async()=>{
@@ -14,6 +15,18 @@ const createAilments = async()=>{
     }catch(err){
         console.error(err);
     }
+}
+
+const createArmors = async() => {
+  console.log("Starting to create armors")
+
+  try {
+    
+    await Promise.all(test.map())
+
+  } catch (error) {
+    console.error("Error armors")    
+  }
 }
 
 
@@ -42,7 +55,7 @@ const dropTables = async () => {
       throw error;
     }
   };
-  
+  /////armor id leaves off at 155-1
   const createTables = async () => {
     try {
       console.log("Starting to build tables...");
@@ -56,7 +69,7 @@ const dropTables = async () => {
         protection JSON NOT NULL
       );
       CREATE TABLE armor(
-        id SERIAL PRIMARY KEY,
+        id INTEGER PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         type VARCHAR(255) NOT NULL,
         rank VARCHAR(255) NOT NULL,
@@ -68,7 +81,7 @@ const dropTables = async () => {
         set JSON NOT NULL,
         assets JSON NOT NULL,
         crafting JSON[] NOT NULL,
-        gender VARCHAR(255) NOT NULL
+        attributes JSON
       );
       CREATE TABLE sets (
         id SERIAL PRIMARY KEY,
