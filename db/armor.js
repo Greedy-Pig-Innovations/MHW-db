@@ -34026,7 +34026,7 @@ const armorData = [
         skills: [
          {
                id: 301,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Shortens time until reuse by 10%.",
               skill: 106,
@@ -45775,7 +45775,7 @@ const armorData = [
         skills: [
          {
                id: 130,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases damage dealt by critical hits by 30%.",
               skill: 40,
@@ -47202,7 +47202,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             }
           ],
           armorSet: {
@@ -47917,7 +47917,7 @@ const armorData = [
         skills: [
          {
                id: 180,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 56,
@@ -48020,7 +48020,7 @@ const armorData = [
         skills: [
          {
                id: 136,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases gauge fill rate by 5% and reduces charge times by 5%.",
               skill: 42,
@@ -49153,7 +49153,7 @@ const armorData = [
         skills: [
          {
                id: 150,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Part damage +10%",
               skill: 46,
@@ -49991,7 +49991,7 @@ const armorData = [
         skills: [
          {
                id: 219,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Slightly decreases the impact of attacks and reduces stamina depletion by 15%.",
               skill: 70,
@@ -52192,7 +52192,7 @@ const armorData = [
         skills: [
          {
                id: 204,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Stamina recovery speed +10%",
               skill: 66,
@@ -53243,7 +53243,7 @@ const armorData = [
         skills: [
          {
                id: 137,
-              level :2,
+              level:2,
              modifiers: {},
               description: "ncreases gauge fill rate by 10% and reduces charge times by 10%.",
               skill: 42,
@@ -53346,7 +53346,7 @@ const armorData = [
         skills: [
          {
                id: 101,
-              level :2,
+              level:2,
              modifiers: {
                 damageDragon: 60
               },
@@ -53451,7 +53451,7 @@ const armorData = [
         skills: [
          {
                id: 143,
-              level :2,
+              level:2,
              modifiers: {
                 sharpnessBonus: 20
               },
@@ -54190,7 +54190,7 @@ const armorData = [
         skills: [
          {
                id: 268,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, increases affinity by 20%.",
               skill: 88,
@@ -54293,7 +54293,7 @@ const armorData = [
         skills: [
          {
                id: 205,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tamina recovery speed +20%",
               skill: 66,
@@ -55306,7 +55306,7 @@ const armorData = [
         skills: [
          {
                id: 189,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Increases the power of bowgun special ammo and Dragon Piercer by 20%.",
               skill: 60,
@@ -57601,7 +57601,7 @@ const armorData = [
         skills: [
          {
                id: 171,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 53,
@@ -57704,7 +57704,7 @@ const armorData = [
         skills: [
          {
                id: 295,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Greatly reduces effluvial buildup.",
               skill: 101,
@@ -58740,7 +58740,7 @@ const armorData = [
         skills: [
          {
                id: 121,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Draws out 66% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -59483,7 +59483,7 @@ const armorData = [
         skills: [
          {
                id: 140,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Bonus duration +20%",
               skill: 43,
@@ -59789,7 +59789,7 @@ const armorData = [
         skills: [
          {
                id: 276,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Prevents knockbacks.",
               skill: 91,
@@ -62710,7 +62710,7 @@ const armorData = [
         skills: [
          {
                id: 150,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Part damage +10%",
               skill: 46,
@@ -63013,7 +63013,7 @@ const armorData = [
         skills: [
          {
                id: 161,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
               skill: 51,
@@ -63116,7 +63116,7 @@ const armorData = [
         skills: [
          {
                id: 236,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Moderately increases item use speed.",
               skill: 75,
@@ -64106,7 +64106,7 @@ const armorData = [
         skills: [
          {
                id: 227,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Items affect nearby allies in a wider radius with 33% of their efficacy.",
               skill: 72,
@@ -64747,7 +64747,7 @@ const armorData = [
         skills: [
          {
                id: 120,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Draws out 33% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -64969,7 +64969,7 @@ const armorData = [
         skills: [
          {
                id: 120,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Draws out 33% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -65080,7 +65080,7 @@ const armorData = [
         skills: [
          {
                id: 120,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Draws out 33% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -65193,7 +65193,7 @@ const armorData = [
         skills: [
          {
                id: 171,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 53,
@@ -65414,7 +65414,7 @@ const armorData = [
         skills: [
          {
                id: 121,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Draws out 66% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -65628,7 +65628,7 @@ const armorData = [
         skills: [
          {
                id: 196,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 30%.",
               skill: 63,
@@ -66277,7 +66277,7 @@ const armorData = [
         skills: [
          {
                id: 134,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts.",
               skill: 41,
@@ -66380,7 +66380,7 @@ const armorData = [
         skills: [
          {
                id: 216,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Extends evasion distance.",
               skill: 69,
@@ -66712,7 +66712,7 @@ const armorData = [
         skills: [
          {
                id: 114,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Blast buildup +5% Bonus: +10",
               skill: 34,
@@ -66936,7 +66936,7 @@ const armorData = [
         skills: [
          {
                id: 216,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Extends evasion distance.",
               skill: 69,
@@ -67144,7 +67144,7 @@ const armorData = [
         skills: [
          {
                id: 227,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Items affect nearby allies in a wider radius with 33% of their efficacy.",
               skill: 72,
@@ -67247,7 +67247,7 @@ const armorData = [
         skills: [
          {
                id: 302,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Shortens time until reuse by 20%.",
               skill: 106,
@@ -67455,7 +67455,7 @@ const armorData = [
         skills: [
          {
                id: 248,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases movement speed while transporting and reduces downtime on landings.",
               skill: 80,
@@ -67774,7 +67774,7 @@ const armorData = [
         skills: [
          {
                id: 102,
-              level :3,
+              level:3,
              modifiers: {
                 damageDragon: 100
               },
@@ -68107,7 +68107,7 @@ const armorData = [
         skills: [
          {
                id: 130,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases damage dealt by critical hits by 30%.",
               skill: 40,
@@ -69940,7 +69940,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -70382,7 +70382,7 @@ const armorData = [
         skills: [
          {
                id: 277,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Prevents standard knockbacks. Tripping is reduced to a knockback. Increases some Kinsect extract effects.",
               skill: 91,
@@ -70598,7 +70598,7 @@ const armorData = [
         skills: [
          {
                id: 130,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases damage dealt by critical hits by 30%.",
               skill: 40,
@@ -71124,7 +71124,7 @@ const armorData = [
         skills: [
          {
                id: 123,
-              level :1,
+              level:1,
              modifiers: {
                 affinity: 5
               },
@@ -71237,7 +71237,7 @@ const armorData = [
         skills: [
          {
                id: 115,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Blast buildup +10% Bonus: +10",
               skill: 34,
@@ -71350,7 +71350,7 @@ const armorData = [
         skills: [
          {
                id: 166,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +4 and increases affinity by 5%.",
               skill: 52,
@@ -71681,7 +71681,7 @@ const armorData = [
         skills: [
          {
                id: 166,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +4 and increases affinity by 5%.",
               skill: 52,
@@ -72214,7 +72214,7 @@ const armorData = [
         skills: [
          {
                id: 143,
-              level :2,
+              level:2,
              modifiers: {
                 sharpnessBonus: 20
               },
@@ -72419,7 +72419,7 @@ const armorData = [
         skills: [
          {
                id: 124,
-              level :2,
+              level:2,
              modifiers: {
                 affinity: 10
               },
@@ -72734,7 +72734,7 @@ const armorData = [
         skills: [
          {
                id: 163,
-              level :3,
+              level:3,
              modifiers: {},
               description: "While active, increases affinity by 30% and reduces stamina depletion by 50%.",
               skill: 51,
@@ -72837,7 +72837,7 @@ const armorData = [
         skills: [
          {
                id: 124,
-              level :2,
+              level:2,
              modifiers: {
                 affinity: 10
               },
@@ -74814,7 +74814,7 @@ const armorData = [
         skills: [
          {
                id: 100,
-              level :1,
+              level:1,
              modifiers: {
                 damageDragon: 30
               },
@@ -74918,7 +74918,7 @@ const armorData = [
         skills: [
          {
                id: 137,
-              level :2,
+              level:2,
              modifiers: {},
               description: "ncreases gauge fill rate by 10% and reduces charge times by 10%.",
               skill: 42,
@@ -75103,7 +75103,7 @@ const armorData = [
         skills: [
          {
                id: 265,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Allows you to gather one extra time from bonepiles and special item gathering points.",
               skill: 87,
@@ -75393,7 +75393,7 @@ const armorData = [
              modifiers: {
                 resistIce:12
               },
-              description: "Ic resistance +12",
+              description: "Ice resistance +12",
               skill: 22,
                skillName: "Ice Resistance"
             },
@@ -75487,7 +75487,7 @@ const armorData = [
         skills: [
          {
                id: 208,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Extends the time until your stamina cap decreases by 100%.",
               skill: 67,
@@ -77658,7 +77658,7 @@ const armorData = [
         skills: [
          {
                id: 114,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Blast buildup +5% Bonus: +10",
               skill: 34,
@@ -77987,7 +77987,7 @@ const armorData = [
         skills: [
          {
                id: 130,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases damage dealt by critical hits by 30%.",
               skill: 40,
@@ -79414,7 +79414,7 @@ const armorData = [
         skills: [
          {
                id: 157,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Exhaust power +30%",
               skill: 48,
@@ -79514,7 +79514,7 @@ const armorData = [
         skills: [
          {
                id: 195,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 15%.",
               skill: 63,
@@ -79822,7 +79822,7 @@ const armorData = [
         skills: [
          {
                id: 136,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases gauge fill rate by 5% and reduces charge times by 5%.",
               skill: 42,
@@ -80948,7 +80948,7 @@ const armorData = [
         skills: [
          {
                id: 198,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Reduces fixed stamina depletion by 10%.",
               skill: 64,
@@ -81396,27 +81396,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 782,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4570,
+                  name: "Viper Tobi-Kadachi Thorn",
+                  description: "Very rare Viper Tobi-Kadachi material. Obtained by breaking its head. Grants poisonous properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 778,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4390,
+                  name: "Viper Tobi-Kadachi Hardclaw",
+                  description: "Very rare Viper Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 783,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1240,
+                  name: "Wulg Thickfur",
+                  description: "Ver rare Wulg material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -81440,7 +81460,7 @@ const armorData = [
              dragon: 1
           },
            attributes: {},
-           name: "Viper "Kadachi Mail" Alpha +",
+           name: "Viper Kadachi Mail Alpha +",
            slots: [
           {
            rank: 1
@@ -81452,9 +81472,9 @@ const armorData = [
         skills: [
          {
                id: 215,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Slightly extends evasion distance."",
+              description: "Slightly extends evasion distance.",
               skill: 69,
               skillName: "Evade Extender"
             },
@@ -81463,7 +81483,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "Slightly increases sheathing speed.",
-              skill: 71
+              skill: 71,
                skillName: "Quick Sheath"
             }
           ],
@@ -81487,27 +81507,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 780,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Viper Tobi-Kadachi Shard",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 779,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4700,
+                  name: "Viper Tobi-Kadachi Membrane+",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
                 }
               }
           ]
@@ -81575,27 +81604,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 780,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Viper Tobi-Kadachi Shard",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 778,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4390,
+                  name: "Viper Tobi-Kadachi Hardclaw",
+                  description: "Very rare Viper Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 671,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Deadly Poison Sac",
+                  description: "A monster organ that contains an extremely virulent toxin. Handle with extreme care."
                 }
               }
           ]
@@ -81663,27 +81712,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 780,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Viper Tobi-Kadachi Shard",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 779,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4700,
+                  name: "Viper Tobi-Kadachi Membrane+",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 671,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Deadly Poison Sac",
+                  description: "A monster organ that contains an extremely virulent toxin. Handle with extreme care."
                 }
               }
           ]
@@ -81751,27 +81820,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 779,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4700,
+                  name: "Viper Tobi-Kadachi Membrane+",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 782,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4570,
+                  name: "Viper Tobi-Kadachi Thorn",
+                  description: "Very rare Viper Tobi-Kadachi material. Obtained by breaking its head. Grants poisonous properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 783,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1240,
+                  name: "Wulg Thickfur",
+                  description: "Ver rare Wulg material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -81841,27 +81930,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 771,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Tough Claw",
+                  description: "Material from master rank small fanged wyverns. So sharp and sturdy that it could be used as a weapon."
                 }
               }
           ]
@@ -81931,27 +82040,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 771,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Tough Claw",
+                  description: "Material from master rank small fanged wyverns. So sharp and sturdy that it could be used as a weapon."
                 }
               }
           ]
@@ -81989,16 +82118,16 @@ const armorData = [
                id: 47,
               level: 2,
              modifiers: {
-                "defens ": 1
+                defense: 10
               },
-              description: "Deense +10",
+              description: "Defense +10",
               skill: 16,
                skillName: "Defense Boost"
             },
             {
                id: 91,
               level: 2,
-              modifiers: 
+              modifiers: {
                 damageIce: 60
               },
               description: "Ice attack +60",
@@ -82026,27 +82155,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -82084,9 +82222,9 @@ const armorData = [
                id: 47,
               level: 2,
              modifiers: {
-                "defens ": 1
+                defense: 1
               },
-              description: "Deense +10",
+              description: "Defense +10",
               skill: 16,
                skillName: "Defense Boost"
             },
@@ -82119,27 +82257,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -82214,27 +82361,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 703,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1680,
+                  name: "Gajau Thickhide",
+                  description: "Very rare Gajau material. Obtained by carving. Water-resistant, used to craft gear."
                 }
               }
           ]
@@ -82302,27 +82469,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 834,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2240,
+                  name: "Banbaro Chine",
+                  description: "Very rare Banbaro material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 835,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2940,
+                  name: "Banbaro Great Horn",
+                  description: "Very rare Banbaro material. Obtained by breaking its horns. Stout, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 687,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 460,
+                  name: "Anteka Antler",
+                  description: "Very rare Anteka material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -82390,27 +82566,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 834,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2240,
+                  name: "Banbaro Chine",
+                  description: "Very rare Banbaro material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 836,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1540,
+                  name: "Banbaro Cortex",
+                  description: "Very rare Banbaro material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 835,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2940,
+                  name: "Banbaro Great Horn",
+                  description: "Very rare Banbaro material. Obtained by breaking its horns. Stout, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 688,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1020,
+                  name: "Prized Pelt",
+                  description: "Very rare small monster material. Obtained by carving. Warm and durable, used to craft gear."
                 }
               }
           ]
@@ -82457,7 +82653,7 @@ const armorData = [
               modifiers: {},
               description: "While active, increases attack power by 5%.",
               skill: 138,
-               skillName: "Offensive G uar"
+               skillName: "Offensive Guard"
         }
           ],
           armorSet: {
@@ -82480,27 +82676,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 834,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2240,
+                  name: "Banbaro Chine",
+                  description: "Very rare Banbaro material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 836,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1540,
+                  name: "Banbaro Cortex",
+                  description: "Very rare Banbaro material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 837,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3220,
+                  name: "Banbaro Lash",
+                  description: "Very rare Banbaro material. Obtained by carving its severed tail. Stiff, used to craft gear."
                 }
               }
           ]
@@ -82568,27 +82773,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 834,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2240,
+                  name: "Banbaro Chine",
+                  description: "Very rare Banbaro material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 836,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1540,
+                  name: "Banbaro Cortex",
+                  description: "Very rare Banbaro material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 673,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2400,
+                  name: "Frozen Bone",
+                  description: "A bone found in bonepiles in the Hoarfrost Reach. Tempered by years of the tundra's unrelenting cold."
                 }
               }
           ]
@@ -82656,27 +82870,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 834,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2240,
+                  name: "Banbaro Chine",
+                  description: "Very rare Banbaro material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 836,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1540,
+                  name: "Banbaro Cortex",
+                  description: "Very rare Banbaro material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 835,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2940,
+                  name: "Banbaro Great Horn",
+                  description: "Very rare Banbaro material. Obtained by breaking its horns. Stout, used in many weapons."
                 }
               }
           ]
@@ -82723,7 +82946,7 @@ const armorData = [
               modifiers: {
                 damageFire: 60
               },
-              description: ""Fire attack"  +60,
+              description: "Fire attack +60",
           skill: 26,
                skillName: "Fire Attack"
             }
@@ -82748,27 +82971,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 833,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3260,
+                  name: "Anjanath Fur",
+                  description: "Very rare Anjanath material. Mostly obtained as a reward. highly heat-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 832,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2160,
+                  name: "Anjanath Shard",
+                  description: "Very rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 830,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4420,
+                  name: "Anjanath Lash",
+                  description: "Very rare Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 669,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Conflagrant Sac",
+                  description: "A monster organ that contains highly volatile and extremely explosive powder. Exquisitely dangerous."
                 }
               }
           ]
@@ -82804,9 +83047,9 @@ const armorData = [
         skills: [
          {
                id: 188,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Increases the power of bowgun special ammo and Dragon Piercer by 10%."",
+              description: "Increases the power of bowgun special ammo and Dragon Piercer by 10%.",
               skill: 60,
               skillName: "Special Ammo Boost"
             },
@@ -82815,7 +83058,7 @@ const armorData = [
               level: 2,
               modifiers: {},
               description: "Reduces continuous stamina depletion by 30%.",
-              skill: 63
+              skill: 63,
                skillName: "Marathon Runner"
             }
           ],
@@ -82839,27 +83082,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 833,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3260,
+                  name: "Anjanath Fur",
+                  description: "Very rare Anjanath material. Mostly obtained as a reward. highly heat-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 828,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4360,
+                  name: "Anjanath Hardfang",
+                  description: "Very rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 829,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4480,
+                  name: "Heavy Anjanath Nosebone",
+                  description: "Very rare Anjanath material. Obtained by breaking its head. Used in select gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               }
           ]
@@ -82883,7 +83146,7 @@ const armorData = [
              dragon: 0
           },
            attributes: {},
-           name: ""Anja Vambraces" Alpha +",
+           name: "Anja Vambraces Alpha +",
            slots: [
           {
            rank: 2
@@ -82906,7 +83169,7 @@ const armorData = [
               modifiers: {},
               description: "Increases the power of bowgun special ammo and Dragon Piercer by 10%.",
               skill: 60,
-               skillName: ""Special Ammo Bo ost"
+               skillName: "Special Ammo Boost"
         }
           ],
           armorSet: {
@@ -82929,27 +83192,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 833,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3260,
+                  name: "Anjanath Fur",
+                  description: "Very rare Anjanath material. Mostly obtained as a reward. highly heat-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 832,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2160,
+                  name: "Anjanath Shard",
+                  description: "Very rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 669,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Conflagrant Sac",
+                  description: "A monster organ that contains highly volatile and extremely explosive powder. Exquisitely dangerous."
                 }
               },
               {
-                quantity: ,
+                quantity: 5,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -82987,9 +83270,9 @@ const armorData = [
                id: 63,
               level: 2,
              modifiers: {
-                resistFire 12
+                resistFire: 12
               },
-              description: ""Fre resistance" +12",
+              description: "Fire resistance +12",
               skill: 20,
                skillName: "Fire Resistance"
             },
@@ -83022,27 +83305,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 833,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3260,
+                  name: "Anjanath Fur",
+                  description: "Very rare Anjanath material. Mostly obtained as a reward. highly heat-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 832,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2160,
+                  name: "Anjanath Shard",
+                  description: "Very rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 828,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4360,
+                  name: "Anjanath Hardfang",
+                  description: "Very rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 771,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Tough Claw",
+                  description: "Material from master rank small fanged wyverns. So sharp and sturdy that it could be used as a weapon."
                 }
               }
           ]
@@ -83110,27 +83413,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 833,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3260,
+                  name: "Anjanath Fur",
+                  description: "Very rare Anjanath material. Mostly obtained as a reward. highly heat-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 832,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2160,
+                  name: "Anjanath Shard",
+                  description: "Very rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes." 
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 829,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4480,
+                  name: "Heavy Anjanath Nosebone",
+                  description: "Very rare Anjanath material. Obtained by breaking its head. Used in select gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               }
           ]
@@ -83166,7 +83489,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -83177,7 +83500,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
-              skill: 57
+              skill: 57,
                skillName: "Resuscitate"
             }
           ],
@@ -83201,27 +83524,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 815,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Fulgur Anjanath Thickfur",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained as a reward. Used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 814,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 2900,
+                  name: "Fulgur Anjanath Shard",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 812,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 6000,
+                  name: "Fulgur Anjanath Lash",
+                  description: "Very rare Fulgur Anjanath material. Obtained by carving its severed tail. Used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 675,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Lightning Sac",
+                  description: "A monster organ that can store electricity as strong as lightning. It rumbles like thunder."
                 }
               }
           ]
@@ -83289,27 +83632,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 815,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Fulgur Anjanath Thickfur",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained as a reward. Used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 814,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 2900,
+                  name: "Fulgur Anjanath Shard",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 811,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 6100,
+                  name: "Heavy Fulgur Anjanath Nosebone",
+                  description: "Very rare Fulgur Anjanath material. Obtained by breaking its head. Has a unique composition."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 675,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Lightning Sac",
+                  description: "A monster organ that can store electricity as strong as lightning. It rumbles like thunder."
                 }
               }
           ]
@@ -83379,27 +83742,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 815,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Fulgur Anjanath Thickfur",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained as a reward. Used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 814,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 2900,
+                  name: "Fulgur Anjanath Shard",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 812,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 6000,
+                  name: "Fulgur Anjanath Lash",
+                  description: "Very rare Fulgur Anjanath material. Obtained by carving its severed tail. Used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 675,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Lightning Sac",
+                  description: "A monster organ that can store electricity as strong as lightning. It rumbles like thunder."
                 }
               }
           ]
@@ -83467,27 +83850,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 815,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Fulgur Anjanath Thickfur",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained as a reward. Used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 810,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 5900,
+                  name: "Fulgur Anjanath Hardfang",
+                  description: "Very rare Fulgur Anjanath material. Obtained by breaking its head. Used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 811,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 6100,
+                  name: "Heavy Fulgur Anjanath Nosebone",
+                  description: "Very rare Fulgur Anjanath material. Obtained by breaking its head. Has a unique composition."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 813,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 15000,
+                  name: "Fulgur Anjanath Mantle",
+                  description: "Very rare Fulgur Anjanath material. Used to craft weapons powerful enough to take over the world."
                 }
               }
           ]
@@ -83560,27 +83963,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 815,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Fulgur Anjanath Thickfur",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained as a reward. Used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 814,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 2900,
+                  name: "Fulgur Anjanath Shard",
+                  description: "Very rare Fulgur Anjanath material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 810,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 5900,
+                  name: "Fulgur Anjanath Hardfang",
+                  description: "Very rare Fulgur Anjanath material. Obtained by breaking its head. Used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 668,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 2600,
+                  name: "Monster Solidbone",
+                  description: "Bone obtained from large master rank monsters. Sturdy enough to withstand even the most ferocious of impacts."
                 }
               }
           ]
@@ -83650,27 +84073,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 927,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3270,
+                  name: "Rathian Cortex",
+                  description: "Very rare Rathian material. Mostly obtained as a reward. Soid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 929,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2170,
+                  name: "Rathian Shard",
+                  description: "Very rare Rathian material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 931,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4370,
+                  name: "Rathian Weave",
+                  description: "Very rare Rathian material. Obtained by breaking its wings. Supple, used to craft gear."
                 }
               }
           ]
@@ -83717,7 +84149,7 @@ const armorData = [
               level: 2,
               modifiers: {},
               description: "One extra consumable herb, fruit, nut, or seed item per gather.",
-              skill: 86
+              skill: 86,
                skillName: "Botanist"
             }
           ],
@@ -83741,27 +84173,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 927,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3270,
+                  name: "Rathian Cortex",
+                  description: "Very rare Rathian material. Mostly obtained as a reward. Soid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 931,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4370,
+                  name: "Rathian Weave",
+                  description: "Very rare Rathian material. Obtained by breaking its wings. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 5,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -83829,27 +84270,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 927,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3270,
+                  name: "Rathian Cortex",
+                  description: "Very rare Rathian material. Mostly obtained as a reward. Soid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 929,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2170,
+                  name: "Rathian Shard",
+                  description: "Very rare Rathian material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 930,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4510,
+                  name: "Rathian Surspike",
+                  description: "Very rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties."
                 }
               }
           ]
@@ -83922,27 +84372,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 927,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3270,
+                  name: "Rathian Cortex",
+                  description: "Very rare Rathian material. Mostly obtained as a reward. Soid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 929,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2170,
+                  name: "Rathian Shard",
+                  description: "Very rare Rathian material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 4,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               }
           ]
@@ -84010,27 +84469,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 927,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3270,
+                  name: "Rathian Cortex",
+                  description: "Very rare Rathian material. Mostly obtained as a reward. Soid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 931,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4370,
+                  name: "Rathian Weave",
+                  description: "Very rare Rathian material. Obtained by breaking its wings. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 669,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Conflagrant Sac",
+                  description: "A monster organ that contains highly volatile and extremely explosive powder. Exquisitely dangerous."
                 }
               }
           ]
@@ -84098,27 +84566,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 925,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3530,
+                  name: "Pink Rathian Cortex",
+                  description: "Very rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 926,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2430,
+                  name: "Pink Rathian Shard",
+                  description: "Very rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 931,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4370,
+                  name: "Rathian Weave",
+                  description: "Very rare Rathian material. Obtained by breaking its wings. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               }
           ]
@@ -84188,27 +84676,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 925,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3530,
+                  name: "Pink Rathian Cortex",
+                  description: "Very rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 926,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2430,
+                  name: "Pink Rathian Shard",
+                  description: "Very rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 931,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4370,
+                  name: "Rathian Weave",
+                  description: "Very rare Rathian material. Obtained by breaking its wings. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 772,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1580,
+                  name: "Shamos Shard",
+                  description: "Very rare Shamos material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -84278,27 +84786,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 925,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3530,
+                  name: "Pink Rathian Cortex",
+                  description: "Very rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 926,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2430,
+                  name: "Pink Rathian Shard",
+                  description: "Very rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 930,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4510,
+                  name: "Rathian Surspike",
+                  description: "Very rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 659,
+                  rarity: 10,
+                  carryLimit: 99,
+                  value: 7320,
+                  name: "Purecrystal",
+                  description: "Very rare lightcrystal. Used by the forge workers to craft their tools due to its incredible hardness."
                 }
               }
           ]
@@ -84368,27 +84896,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 925,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3530,
+                  name: "Pink Rathian Cortex",
+                  description: "Very rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 926,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2430,
+                  name: "Pink Rathian Shard",
+                  description: "Very rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 4,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               }
           ]
@@ -84435,7 +84983,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "Shortens time until reuse by 10%.",
-              skill: 106
+              skill: 106,
                skillName: "Tool Specialist"
             }
           ],
@@ -84459,27 +85007,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 925,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3530,
+                  name: "Pink Rathian Cortex",
+                  description: "Very rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 926,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2430,
+                  name: "Pink Rathian Shard",
+                  description: "Very rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 931,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4370,
+                  name: "Rathian Weave",
+                  description: "Very rare Rathian material. Obtained by breaking its wings. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 669,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Conflagrant Sac",
+                  description: "A monster organ that contains highly volatile and extremely explosive powder. Exquisitely dangerous."
                 }
               }
           ]
@@ -84547,27 +85115,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 924,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3240,
+                  name: "Paolumu Thickfur",
+                  description: "Very rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 923,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2140,
+                  name: "Paolumu Shard",
+                  description: "Very rare Paolumu material Obtained by carving. Warm and durable, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 921,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4380,
+                  name: "Paolumu Cortex",
+                  description: "Very rare material from Paolumu and its subspecies Obtained by breaking its tail."
                 }
               }
           ]
@@ -84603,9 +85180,9 @@ const armorData = [
         skills: [
          {
                id: 159,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "akes it easier to mount monsters and down mounted monsters.",
+              description: "Makes it easier to mount monsters and down mounted monsters.",
               skill: 49,
               skillName: "Mater Mounter"
             },
@@ -84614,7 +85191,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.",
-              skill: 61
+              skill: 61,
                skillName: "Artillery"
             }
           ],
@@ -84638,27 +85215,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 924,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3240,
+                  name: "Paolumu Thickfur",
+                  description: "Very rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 923,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2140,
+                  name: "Paolumu Shard",
+                  description: "Very rare Paolumu material Obtained by carving. Warm and durable, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 921,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4380,
+                  name: "Paolumu Cortex",
+                  description: "Very rare material from Paolumu and its subspecies Obtained by breaking its tail."
                 }
               }
           ]
@@ -84705,7 +85291,7 @@ const armorData = [
               level: 2,
               modifiers: {},
               description: "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.",
-              skill: 61
+              skill: 61,
                skillName: "Artillery"
             }
           ],
@@ -84729,27 +85315,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 924,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3240,
+                  name: "Paolumu Thickfur",
+                  description: "Very rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 922,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4340,
+                  name: "Paolumu Fellwing",
+                  description: "Very rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               }
           ]
@@ -84796,7 +85391,7 @@ const armorData = [
               level: 2,
               modifiers: {},
               description: "While active, reduces damage taken by 30%.",
-              skill: 84
+              skill: 84,
                skillName: "Divine Blessing"
             }
           ],
@@ -84820,27 +85415,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 921,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4380,
+                  name: "Paolumu Cortex",
+                  description: "Very rare material from Paolumu and its subspecies Obtained by breaking its tail."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 923,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2140,
+                  name: "Paolumu Shard",
+                  description: "Very rare Paolumu material Obtained by carving. Warm and durable, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 922,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4340,
+                  name: "Paolumu Fellwing",
+                  description: "Very rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
                 }
               }
           ]
@@ -84908,27 +85512,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 924,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3240,
+                  name: "Paolumu Thickfur",
+                  description: "Very rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 922,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4340,
+                  name: "Paolumu Fellwing",
+                  description: "Very rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 921,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4380,
+                  name: "Paolumu Cortex",
+                  description: "Very rare material from Paolumu and its subspecies Obtained by breaking its tail."
                 }
               }
           ]
@@ -84964,7 +85577,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -84975,7 +85588,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "Items affect nearby allies with 33% of their efficacy.",
-              skill: 72
+              skill: 72,
                skillName: "Wide-Range"
             }
           ],
@@ -84999,27 +85612,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 920,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3300,
+                  name: "Nightshade Paolumu Thickfur",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 919,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2200,
+                  name: "Nightshade Paolumu Shard",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained by carving. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 921,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4380,
+                  name: "Paolumu Cortex",
+                  description: "Very rare material from Paolumu and its subspecies Obtained by breaking its tail."
                 }
               }
           ]
@@ -85087,27 +85709,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 920,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3300,
+                  name: "Nightshade Paolumu Thickfur",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 919,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2200,
+                  name: "Nightshade Paolumu Shard",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained by carving. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 678,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Torpor Sac",
+                  description: "A monster organ that contains a sleeping agent capable of instantly knocking out even a raging monster."
                 }
               }
           ]
@@ -85175,28 +85806,37 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 920,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3300,
+                  name: "Nightshade Paolumu Thickfur",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 920,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3300,
+                  name: "Nightshade Paolumu Thickfur",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
-                }
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
+              }
               }
           ]
           }
@@ -85263,27 +85903,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 920,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3300,
+                  name: "Nightshade Paolumu Thickfur",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 919,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2200,
+                  name: "Nightshade Paolumu Shard",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained by carving. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 918,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Nightshade Paolumu Fellwing",
+                  description: "Very rare Nightshade Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
                 }
               }
           ]
@@ -85351,27 +86000,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 920,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3300,
+                  name: "Nightshade Paolumu Thickfur",
+                  description: "Very rare Nightshade Paolumu material. Mostly obtained as a reward. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 918,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Nightshade Paolumu Fellwing",
+                  description: "Very rare Nightshade Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 921,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4380,
+                  name: "Paolumu Cortex",
+                  description: "Very rare material from Paolumu and its subspecies Obtained by breaking its tail."
                 }
               }
           ]
@@ -85411,14 +86069,14 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             },
             {
                id: 153,
               level: 1,
               modifiers: {},
               description: "Stun power +20%",
-              skill: 47
+              skill: 47,
                skillName: "Slugger"
             }
           ],
@@ -85442,27 +86100,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 844,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3250,
+                  name: "Radobaan Cortex",
+                  description: "Very rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 846,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2150,
+                  name: "Radobaan Shard",
+                  description: "Very rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 843,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4350,
+                  name: "Large Wyvern Bonemass",
+                  description: "Very rare Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               }
           ]
@@ -85530,27 +86208,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 844,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3250,
+                  name: "Radobaan Cortex",
+                  description: "Very rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 845,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Radobaan Oilshell+",
+                  description: "Very rare Radobaan material. Obtained by carving its severed tail. Impact-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 678,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Torpor Sac",
+                  description: "A monster organ that contains a sleeping agent capable of instantly knocking out even a raging monster."
                 }
               }
           ]
@@ -85618,27 +86305,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 844,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3250,
+                  name: "Radobaan Cortex",
+                  description: "Very rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 846,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2150,
+                  name: "Radobaan Shard",
+                  description: "Very rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 845,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Radobaan Oilshell+",
+                  description: "Very rare Radobaan material. Obtained by carving its severed tail. Impact-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 678,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Torpor Sac",
+                  description: "A monster organ that contains a sleeping agent capable of instantly knocking out even a raging monster."
                 }
               }
           ]
@@ -85706,27 +86413,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 844,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3250,
+                  name: "Radobaan Cortex",
+                  description: "Very rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 845,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4400,
+                  name: "Radobaan Oilshell+",
+                  description: "Very rare Radobaan material. Obtained by carving its severed tail. Impact-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 843,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4350,
+                  name: "Large Wyvern Bonemass",
+                  description: "Very rare Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               }
           ]
@@ -85794,27 +86521,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 844,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3250,
+                  name: "Radobaan Cortex",
+                  description: "Very rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 846,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2150,
+                  name: "Radobaan Shard",
+                  description: "Very rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 313,
+                  rarity: 4,
+                  carryLimit: 99,
+                  value: 880,
+                  name: "Wyvern Bonemass",
+                  description: "Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 4,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               }
           ]
@@ -85884,27 +86631,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 141,
+                  rarity: 4,
+                  carryLimit: 99,
+                  value: 800,
+                  name: "Warped Bone",
+                  description: "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality."
                 }
               }
           ]
@@ -85944,14 +86700,15 @@ const armorData = [
              modifiers: {
                 attack: 3
              },
-              description: ,
-           skill: 15,
+              description: "Attack +3",
+              skill: 15,
                skillName: "Attack Boost"
             }
           ],
           armorSet: {
              id: 201,
-             rank: "ma ter",             name: "Bone Beta +",
+             rank: "master",             
+             name: "Bone Beta +",
              pieces: [
               881,
               882,
@@ -85968,27 +86725,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 142,
+                  rarity: 6,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Brutal Bone",
+                  description: "A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality."
                 }
               }
           ]
@@ -86024,18 +86790,18 @@ const armorData = [
         skills: [
          {
                id: 153,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Stun power +20%"",
+              description: "Stun power +20%",
               skill: 47,
-              skillName: ""Sugger""
+              skillName: "Slugger"
             }
           ],
           armorSet: {
              id: 201,
              rank: "master",
              name: "Bone Beta +",
-             pieces: 
+             pieces: [
               881,
               882,
               883,
@@ -86051,27 +86817,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 140,
+                  rarity: 4,
+                  carryLimit: 99,
+                  value: 800,
+                  name: "Coral Bone",
+                  description: "A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality."
                 }
               }
           ]
@@ -86107,18 +86882,18 @@ const armorData = [
         skills: [
          {
                id: 186,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Extends melody effect duration and increases health recovery."",
+              description: "Extends melody effect duration and increases health recovery.",
               skill: 58,
-              skillName: ""Hrn Maestro""
+              skillName: "Horn Maestro"
             }
           ],
           armorSet: {
              id: 201,
              rank: "master",
              name: "Bone Beta +",
-             pieces: 
+             pieces: [
               881,
               882,
               883,
@@ -86134,27 +86909,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 138,
+                  rarity: 4,
+                  carryLimit: 99,
+                  value: 400,
+                  name: "Ancient Bone",
+                  description: "A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality."
                 }
               }
           ]
@@ -86202,7 +86986,7 @@ const armorData = [
               881,
               882,
               883, 
-          884,
+              884,
               885
             ],
             bonus: null 
@@ -86214,27 +86998,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 139,
+                  rarity: 4,
+                  carryLimit: 99,
+                  value: 400,
+                  name: "Boulder Bone",
+                  description: "A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality."
                 }
               }
           ]
@@ -86281,7 +87074,7 @@ const armorData = [
              id: 202,
              rank: "master",
              name: "Alloy Beta +",
-             pieces: 
+             pieces: [
               886,
               887,
               888,
@@ -86297,27 +87090,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 119,
+                  rarity: 6,
+                  carryLimit: 99,
+                  value: 680,
+                  name: "Carbalite Ore",
+                  description: "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 663,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Spiritvein Crystal",
+                  description: "Mined from master rank areas. Little is known about these crystals save the complexity of their balance."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               }
           ]
@@ -86355,16 +87168,16 @@ const armorData = [
                id: 65,
               level: 1,
              modifiers: {
-                "resist ater: 6
+                resistWater: 6
               },
-              description: ""Wter resistance" +6",
+              description: "Water resistance +6",
               skill: 21,
                skillName: "Water Resistance"
             }
           ],
           armorSet: {
              id: 202,
-             rank: "m ster"
+             rank: "master",
              name: "Alloy Beta +",
              pieces: [
               886,
@@ -86382,27 +87195,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 119,
+                  rarity: 6,
+                  carryLimit: 99,
+                  value: 680,
+                  name: "Carbalite Ore",
+                  description: "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 123,
+                  rarity: 6,
+                  carryLimit: 99,
+                  value: 800,
+                  name: "Dragonvein Crystal",
+                  description: "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork."
                 }
               }
           ]
@@ -86440,16 +87262,18 @@ const armorData = [
                id: 46,
               level: 1,
              modifiers: {
-                "defens ": 5              },
+                defense: 5              
+              },
               description: "Defense +5",
-              skill  16,
+              skill: 16,
              skillName: "Defense Boost"
             }
           ],
           armorSet: {
              id: 202,
              rank: "master",
-             name: "Alloy Be a +",             pieces: [
+             name: "Alloy Beta +",             
+             pieces: [
               886,
               887,
               888,
@@ -86465,27 +87289,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 119,
+                  rarity: 6,
+                  carryLimit: 99,
+                  value: 680,
+                  name: "Carbalite Ore",
+                  description: "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 123,
+                  rarity: 6,
+                  carryLimit: 99,
+                  value: 800,
+                  name: "Dragonvein Crystal",
+                  description: "Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork."
                 }
               }
           ]
@@ -86553,30 +87386,39 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 119,
+                  rarity: 6,
+                  carryLimit: 99,
+                  value: 680,
+                  name: "Carbalite Ore",
+                  description: "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 663,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Spiritvein Crystal",
+                  description: "Mined from master rank areas. Little is known about these crystals save the complexity of their balance."
                 }
               }
-          ]
+            ]
           }
         },
         {
@@ -86641,27 +87483,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 119,
+                  rarity: 6,
+                  carryLimit: 99,
+                  value: 680,
+                  name: "Carbalite Ore",
+                  description: "Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 663,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Spiritvein Crystal",
+                  description: "Mined from master rank areas. Little is known about these crystals save the complexity of their balance."
                 }
               }
           ]
@@ -86697,18 +87548,18 @@ const armorData = [
         skills: [
          {
                id: 223,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Slightly increases sheathing speed."",
+              description: "Slightly increases sheathing speed.",
               skill: 71,
-              skillName: ""Qick Sheath""
+              skillName: "Quick Sheath"
             }
           ],
           armorSet: {
              id: 203,
              rank: "master",
              name: "Vespoid Beta +",
-             pieces: 
+             pieces: [
               891,
               892,
               893,
@@ -86724,27 +87575,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 694,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1960,
+                  name: "Vespoid Razorwing",
+                  description: "Very rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               }
           ]
@@ -86791,7 +87651,7 @@ const armorData = [
              id: 203,
              rank: "master",
              name: "Vespoid Beta +",
-             pieces: 
+             pieces: [
               891,
               892,
               893,
@@ -86807,27 +87667,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 694,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1960,
+                  name: "Vespoid Razorwing",
+                  description: "Very rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               }
           ]
@@ -86863,18 +87732,18 @@ const armorData = [
         skills: [
          {
                id: 108,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Paralysis buildup +5% Bonus: +10"",
+              description: "Paralysis buildup +5% Bonus: +10",
               skill: 32,
-              skillName: ""Pralysis Attack""
+              skillName: "Paralysis Attack"
             }
           ],
           armorSet: {
              id: 203,
              rank: "master",
              name: "Vespoid Beta +",
-             pieces: 
+             pieces: [
               891,
               892,
               893,
@@ -86890,27 +87759,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 694,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1960,
+                  name: "Vespoid Razorwing",
+                  description: "Very rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               }
           ]
@@ -86948,16 +87826,16 @@ const armorData = [
                id: 4,
               leve:  1,
              modifiers: {},
-              description: "Reduces the duration of paralysis by 30%."",
+              description: "Reduces the duration of paralysis by 30%.",
               skill: 2,
-              skillName: ""Pralysis Resistance""
+              skillName: "Paralysis Resistance"
             }
           ],
           armorSet: {
              id: 203,
              rank: "master",
              name: "Vespoid Beta +",
-             pieces: 
+             pieces: [
               891,
               892,
               893,
@@ -86973,27 +87851,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 694,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1960,
+                  name: "Vespoid Razorwing",
+                  description: "Very rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               }
           ]
@@ -87029,7 +87916,7 @@ const armorData = [
         skills: [
          {
                id: 147,
-              level :1,
+              level:1,
              modifiers: {},
               description: "raw attack affinity +30%",
               skill: 45,
@@ -87040,7 +87927,7 @@ const armorData = [
              id: 203,
              rank: "master",
              name: "Vespoid Beta +",
-             pieces: 
+             pieces: [
               891,
               892,
               893,
@@ -87056,27 +87943,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 694,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1960,
+                  name: "Vespoid Razorwing",
+                  description: "Very rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               }
           ]
@@ -87146,27 +88042,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 692,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2120,
+                  name: "Hornetaur Razorwing",
+                  description: "Very rare Hornetaur material. Light and sharp used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               }
           ]
@@ -87231,27 +88136,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 692,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2120,
+                  name: "Hornetaur Razorwing",
+                  description: "Very rare Hornetaur material. Light and sharp used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -87287,18 +88201,18 @@ const armorData = [
         skills: [
          {
                id: 234,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Activates 25% of the time."",
+              description: "Activates 25% of the time.",
               skill: 74,
-              skillName: ""Fee Meal""
+              skillName: "Free Meal"
             }
           ],
           armorSet: {
              id: 204,
              rank: "master",
              name: "Hornetaur Beta +",
-             pieces: 
+             pieces: [
               896,
               897,
               898,
@@ -87314,27 +88228,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 692,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2120,
+                  name: "Hornetaur Razorwing",
+                  description: "Very rare Hornetaur material. Light and sharp used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -87370,7 +88293,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -87381,7 +88304,7 @@ const armorData = [
              id: 204,
              rank: "master",
              name: "Hornetaur Beta +",
-             pieces: 
+             pieces: [
               896,
               897,
               898,
@@ -87397,27 +88320,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 692,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2120,
+                  name: "Hornetaur Razorwing",
+                  description: "Very rare Hornetaur material. Light and sharp used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -87453,18 +88385,18 @@ const armorData = [
         skills: [
          {
                id: 142,
-              level :1,
+              level:1,
              modifiers: {
                 sharpnessBonus: 10
               },
-              description: ""Wapon sharpness +10"",
+              description: "Weapon sharpness +10",
               skill: 44,
                skillName: "Handicraft"
             }
           ],
           armorSet: {
              id: 204,
-             rank: "m ster"
+             rank: "master",
              name: "Hornetaur Beta +",
              pieces: [
               896,
@@ -87482,27 +88414,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 692,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2120,
+                  name: "Hornetaur Razorwing",
+                  description: "Very rare Hornetaur material. Light and sharp used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -87538,7 +88479,7 @@ const armorData = [
         skills: [
          {
                id: 136,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases gauge fill rate by 5% and reduces charge times by 5%.",
               skill: 42,
@@ -87571,27 +88512,25 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 770,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1320,
+                  name: "Kestodon Husk",
+                  description: "Very rare Kestodon material. Obtained by carving. Sturdy, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               }
           ]
@@ -87660,27 +88599,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 703,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1680,
+                  name: "Gajau Thickhide",
+                  description: "Very rare Gajau material. Obtained by carving. Water-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 708,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Steel Gajau Whisker",
+                  description: "Very rare Gajau material. Obtained by carving. Hardy, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -87716,7 +88664,7 @@ const armorData = [
         skills: [
          {
                id: 264,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Allows you to gather one extra time from bonepiles.",
               skill: 87,
@@ -87727,7 +88675,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "Marks rare sites on the wildlife map.",
-              skill: 104
+              skill: 104,
                skillName: "Detector"
             }
           ],
@@ -87747,27 +88695,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 772,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1580,
+                  name: "Shamos Shard",
+                  description: "Very rare Shamos material. Obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 771,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Tough Claw",
+                  description: "Material from master rank small fanged wyverns. So sharp and sturdy that it could be used as a weapon."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 663,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Spiritvein Crystal",
+                  description: "Mined from master rank areas. Little is known about these crystals save the complexity of their balance."
                 }
               }
           ]
@@ -87814,7 +88771,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "Prevents knockbacks.",
-              skill: 91
+              skill: 91,
                skillName: "Flinch Free"
             }
           ],
@@ -87834,27 +88791,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 758,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2140,
+                  name: "Gastodon Husk",
+                  description: "Very rare Gastodon material. Obtained by carving. Studry, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 688,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1020,
+                  name: "Prized Pelt",
+                  description: "Very rare small monster material. Obtained by carving. Warm and durable, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 677,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1200,
+                  name: "Thick Bone",
+                  description: "Very rare bone uses as crafting material. While laborious to work, it yields results like no other."
                 }
               }
           ]
@@ -87901,7 +88867,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "Nullifies heat damage.",
-              skill: 14
+              skill: 14,
                skillName: "Heat Guard"
             }
           ],
@@ -87921,27 +88887,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 689,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2280,
+                  name: "Barnos Hardclaw",
+                  description: "Very rare Barnos material. Obtained by carving. Unusual, used in select gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 691,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1240,
+                  name: "Wingdrake Finehide",
+                  description: "A very rare material carved from wingdrakes. Lightweight, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               }
           ]
@@ -88010,27 +88985,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 783,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1240,
+                  name: "Wulg Thickfur",
+                  description: "Ver rare Wulg material. Obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 691,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1240,
+                  name: "Wingdrake Finehide",
+                  description: "A very rare material carved from wingdrakes. Lightweight, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -88094,27 +89078,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 690,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1450,
+                  name: "Cortos Hardclaw",
+                  description: "Very rare Cortos material. Obtained by carving. Unusual, used in select gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 691,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1240,
+                  name: "Wingdrake Finehide",
+                  description: "A very rare material carved from wingdrakes. Lightweight, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 673,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2400,
+                  name: "Frozen Bone",
+                  description: "A bone found in bonepiles in the Hoarfrost Reach. Tempered by years of the tundra's unrelenting cold."
                 }
               }
           ]
@@ -88154,14 +89147,14 @@ const armorData = [
              modifiers: {
                 attack: 3
              },
-              description: ,
+              description: "Attack +3",
            skill: 15,
                skillName: "Attack Boost"
             },
             {
                id: 235,
               level: 1,
-              "modifiers : {},              
+               modifiers: {},              
               description: "Slightly increases item use speed.",
               skill: 75,
                skillName: "Speed Eating"
@@ -88187,27 +89180,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 768,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1840,
+                  name: "Great Jagras Thickhide",
+                  description: "Very rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 767,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1320,
+                  name: "Great Jagras Shard",
+                  description: "Very rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 769,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 960,
+                  name: "Jagras Shard",
+                  description: "Very rare Jagras material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -88277,27 +89290,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 768,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1840,
+                  name: "Great Jagras Thickhide",
+                  description: "Very rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 767,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1320,
+                  name: "Great Jagras Shard",
+                  description: "Very rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 765,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2440,
+                  name: "Great Jagras Hardclaw",
+                  description: "Very rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 769,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 960,
+                  name: "Jagras Shard",
+                  description: "Very rare Jagras material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -88365,27 +89398,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 768,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1840,
+                  name: "Great Jagras Thickhide",
+                  description: "Very rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 766,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2480,
+                  name: "Great Jagras Mane+",
+                  description: "Very rare Great Jagras material. Obtained by breaking its head. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 765,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2440,
+                  name: "Great Jagras Hardclaw",
+                  description: "Very rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 771,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Tough Claw",
+                  description: "Material from master rank small fanged wyverns. So sharp and sturdy that it could be used as a weapon."
                 }
               }
           ]
@@ -88432,7 +89485,7 @@ const armorData = [
              id: 212,
              rank: "master",
              name: "Jagras Beta +",
-             pieces: 
+             pieces: [
               908,
               909,
               910,
@@ -88448,27 +89501,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 768,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1840,
+                  name: "Great Jagras Thickhide",
+                  description: "Very rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 767,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1320,
+                  name: "Great Jagras Shard",
+                  description: "Very rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 766,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2480,
+                  name: "Great Jagras Mane+",
+                  description: "Very rare Great Jagras material. Obtained by breaking its head. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 769,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 960,
+                  name: "Jagras Shard",
+                  description: "Very rare Jagras material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -88492,7 +89565,7 @@ const armorData = [
              dragon: 1
           },
            attributes: {},
-           name: ""Jagras Greaves" Beta +",
+           name: "Jagras Greaves Beta +",
            slots: [
           {
            rank: 4
@@ -88504,18 +89577,18 @@ const armorData = [
         skills: [
          {
                id: 234,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Activates 25% of the time."",
+              description: "Activates 25% of the time.",
               skill: 74,
-              skillName: ""Fee Meal""
+              skillName: "Free Meal"
             }
           ],
           armorSet: {
              id: 212,
              rank: "master",
              name: "Jagras Beta +",
-             pieces: 
+             pieces: [
               908,
               909,
               910,
@@ -88531,27 +89604,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 768,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1840,
+                  name: "Great Jagras Thickhide",
+                  description: "Very rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 767,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1320,
+                  name: "Great Jagras Shard",
+                  description: "Very rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 766,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2480,
+                  name: "Great Jagras Mane+",
+                  description: "Very rare Great Jagras material. Obtained by breaking its head. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 769,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 960,
+                  name: "Jagras Shard",
+                  description: "Very rare Jagras material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -88587,7 +89680,7 @@ const armorData = [
         skills: [
          {
                id: 120,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Draws out 33% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -88598,7 +89691,7 @@ const armorData = [
              id: 213,
              rank: "master",
              name: "Tzitzi Beta +",
-             pieces: 
+             pieces: [
               913,
               914,
               915,
@@ -88614,27 +89707,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 734,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1900,
+                  name: "Tzitzi-Ya-Ku Thickhide",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 731,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2500,
+                  name: "Tzitzi-Ya-Ku Hardclaw",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 732,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2600,
+                  name: "Tzitzi-Ya-Ku Photomembrane",
+                  description: "Very rare Tzitzi-Ya-Kumaterial obtained by breaking its pulse organs. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 772,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1580,
+                  name: "Shamos Shard",
+                  description: "Very rare Shamos material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -88707,27 +89820,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 734,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1900,
+                  name: "Tzitzi-Ya-Ku Thickhide",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 733,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1300,
+                  name: "Tzitzi-Ya-Ku Shard",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 732,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2600,
+                  name: "Tzitzi-Ya-Ku Photomembrane",
+                  description: "Very rare Tzitzi-Ya-Kumaterial obtained by breaking its pulse organs. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 772,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1580,
+                  name: "Shamos Shard",
+                  description: "Very rare Shamos material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -88795,27 +89928,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 734,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1900,
+                  name: "Tzitzi-Ya-Ku Thickhide",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 733,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1300,
+                  name: "Tzitzi-Ya-Ku Shard",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 732,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2600,
+                  name: "Tzitzi-Ya-Ku Photomembrane",
+                  description: "Very rare Tzitzi-Ya-Kumaterial obtained by breaking its pulse organs. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               }
           ]
@@ -88851,7 +90004,7 @@ const armorData = [
         skills: [
          {
                id: 227,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Items affect nearby allies in a wider radius with 33% of their efficacy.",
               skill: 72,
@@ -88862,7 +90015,7 @@ const armorData = [
              id: 213,
              rank: "master",
              name: "Tzitzi Beta +",
-             pieces: 
+             pieces: [
               913,
               914,
               915,
@@ -88878,27 +90031,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 734,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1900,
+                  name: "Tzitzi-Ya-Ku Thickhide",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 733,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1300,
+                  name: "Tzitzi-Ya-Ku Shard",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 731,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2500,
+                  name: "Tzitzi-Ya-Ku Hardclaw",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 772,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1580,
+                  name: "Shamos Shard",
+                  description: "Very rare Shamos material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -88966,27 +90139,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 734,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1900,
+                  name: "Tzitzi-Ya-Ku Thickhide",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 733,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1300,
+                  name: "Tzitzi-Ya-Ku Shard",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 731,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2500,
+                  name: "Tzitzi-Ya-Ku Hardclaw",
+                  description: "Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               }
           ]
@@ -89034,7 +90227,7 @@ const armorData = [
               918,
               919,
               920, 
-          921,
+              921,
               922
             ],
             bonus: null 
@@ -89046,27 +90239,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 764,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1910,
+                  name: "Great Girros Thickhide",
+                  description: "Very rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 761,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2130,
+                  name: "Great Girros Hardfang",
+                  description: "Very rare Great Girros material. Obtained by breakings its head. Grants paralytic properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 679,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Ultraplegia Sac",
+                  description: "A monster organ filled with highly concentrated neurotoxins. Handle with extreme care."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 141,
+                  rarity: 4,
+                  carryLimit: 99,
+                  value: 800,
+                  name: "Warped Bone",
+                  description: "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality."
                 }
               }
           ]
@@ -89106,14 +90319,14 @@ const armorData = [
              modifiers: {},
               description: "Reduces the duration of paralysis by 60%.",
               skill: 2,
-              skillName: ""Pralysis Resistance""
+              skillName: "Paralysis Resistance"
             }
           ],
           armorSet: {
              id: 214,
              rank: "master",
              name: "Girros Beta +",
-             pieces: 
+             pieces: [
               918,
               919,
               920,
@@ -89129,27 +90342,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 764,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1910,
+                  name: "Great Girros Thickhide",
+                  description: "Very rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 763,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1310,
+                  name: "Great Girros Shard",
+                  description: "Very rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 760,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2730,
+                  name: "Great Girros Hardhood",
+                  description: "Very rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 759,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1760,
+                  name: "Girros Shard",
+                  description: "Very rare Girros material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -89217,27 +90450,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 764,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1910,
+                  name: "Great Girros Thickhide",
+                  description: "Very rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 763,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1310,
+                  name: "Great Girros Shard",
+                  description: "Very rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 760,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2730,
+                  name: "Great Girros Hardhood",
+                  description: "Very rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 141,
+                  rarity: 4,
+                  carryLimit: 99,
+                  value: 800,
+                  name: "Warped Bone",
+                  description: "A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality."
                 }
               }
           ]
@@ -89284,7 +90537,7 @@ const armorData = [
              id: 214,
              rank: "master",
              name: "Girros Beta +",
-             pieces: 
+             pieces: [
               918,
               919,
               920,
@@ -89300,27 +90553,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 764,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1910,
+                  name: "Great Girros Thickhide",
+                  description: "Very rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 762,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2510,
+                  name: "Great Girros Lash",
+                  description: "Very rare Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 679,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Ultraplegia Sac",
+                  description: "A monster organ filled with highly concentrated neurotoxins. Handle with extreme care."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 759,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1760,
+                  name: "Girros Shard",
+                  description: "Very rare Girros material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -89380,27 +90653,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 764,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1910,
+                  name: "Great Girros Thickhide",
+                  description: "Very rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 761,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2130,
+                  name: "Great Girros Hardfang",
+                  description: "Very rare Great Girros material. Obtained by breakings its head. Grants paralytic properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 763,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1310,
+                  name: "Great Girros Shard",
+                  description: "Very rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 759,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1760,
+                  name: "Girros Shard",
+                  description: "Very rare Girros material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -89448,7 +90741,7 @@ const armorData = [
               923,
               924,
               925, 
-          926,
+              926,
               927
             ],
             bonus: null 
@@ -89460,27 +90753,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 757,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Dodogama Thickhide",
+                  description: "Very rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 756,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1520,
+                  name: "Dodogama Shard",
+                  description: "Very rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 755,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3280,
+                  name: "Dodogama Mandible",
+                  description: "Very rare Dodogama material. Obtained by breakings its head. Unusual and difficult to handle."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               }
           ]
@@ -89528,7 +90841,7 @@ const armorData = [
               923,
               924,
               925, 
-          926,
+              926,
               927
             ],
             bonus: null 
@@ -89540,27 +90853,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 757,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Dodogama Thickhide",
+                  description: "Very rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 754,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3520,
+                  name: "Dodogama Lash",
+                  description: "Very rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 755,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3280,
+                  name: "Dodogama Mandible",
+                  description: "Very rare Dodogama material. Obtained by breakings its head. Unusual and difficult to handle."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 758,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2140,
+                  name: "Gastodon Husk",
+                  description: "Very rare Gastodon material. Obtained by carving. Studry, used to craft gear."
                 }
               }
           ]
@@ -89628,27 +90961,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 757,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Dodogama Thickhide",
+                  description: "Very rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 753,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3040,
+                  name: "Dodogama Hardclaw",
+                  description: "Very rare Dodogama material. Obtained by breakings its forelegs. Heavy, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 756,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1520,
+                  name: "Dodogama Shard",
+                  description: "Very rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 758,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2140,
+                  name: "Gastodon Husk",
+                  description: "Very rare Gastodon material. Obtained by carving. Studry, used to craft gear."
                 }
               }
           ]
@@ -89684,7 +91037,7 @@ const armorData = [
         skills: [
          {
                id: 191,
-              level :2,
+              level:2,
              modifiers: {},
               description: "ncreases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.",
               skill: 61,
@@ -89695,7 +91048,7 @@ const armorData = [
              id: 215,
              rank: "master",
              name: "Dodogama Beta +",
-             pieces: 
+             pieces: [
               923,
               924,
               925,
@@ -89711,27 +91064,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 757,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Dodogama Thickhide",
+                  description: "Very rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 756,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1520,
+                  name: "Dodogama Shard",
+                  description: "Very rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 755,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3280,
+                  name: "Dodogama Mandible",
+                  description: "Very rare Dodogama material. Obtained by breakings its head. Unusual and difficult to handle."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -89767,18 +91140,18 @@ const armorData = [
         skills: [
          {
                id: 187,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Loading capacity +1"",
+              description: "Loading capacity +1",
               skill: 59,
-              skillName: ""Cpacity Boost""
+              skillName: "Capacity Boost"
             }
           ],
           armorSet: {
              id: 215,
              rank: "master",
              name: "Dodogama Beta +",
-             pieces: 
+             pieces: [
               923,
               924,
               925,
@@ -89794,27 +91167,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 757,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Dodogama Thickhide",
+                  description: "Very rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 754,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3520,
+                  name: "Dodogama Lash",
+                  description: "Very rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 753,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3040,
+                  name: "Dodogama Hardclaw",
+                  description: "Very rare Dodogama material. Obtained by breakings its forelegs. Heavy, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               }
           ]
@@ -89874,27 +91267,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 726,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1950,
+                  name: "Kulu-Ya-Ku Thickhide",
+                  description: "Very rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 725,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1350,
+                  name: "Kulu-Ya-Ku Shard",
+                  description: "Very rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 724,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2500,
+                  name: "Large Kulu-Ya-Ku Plume",
+                  description: "Very rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 769,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 960,
+                  name: "Jagras Shard",
+                  description: "Very rare Jagras material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -89964,27 +91377,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 726,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1950,
+                  name: "Kulu-Ya-Ku Thickhide",
+                  description: "Very rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 724,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2500,
+                  name: "Large Kulu-Ya-Ku Plume",
+                  description: "Very rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 723,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2550,
+                  name: "Large Kulu-Ya-Ku Beak",
+                  description: "Very rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 769,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 960,
+                  name: "Jagras Shard",
+                  description: "Very rare Jagras material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -90044,27 +91477,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 726,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1950,
+                  name: "Kulu-Ya-Ku Thickhide",
+                  description: "Very rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 725,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1350,
+                  name: "Kulu-Ya-Ku Shard",
+                  description: "Very rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 604,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1280,
+                  name: "Eltalite Ore",
+                  description: "Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite."
                 }
               }
           ]
@@ -90100,18 +91542,18 @@ const armorData = [
         skills: [
          {
                id: 232,
-              level :2,
+              level:2,
              modifiers: {},
-              description: "tem effect duration +25%",
+              description: "Item effect duration +25%",
               skill: 73,
-              skillName: ""Iem Prolonger""
+              skillName: "Item Prolonger"
             }
           ],
           armorSet: {
              id: 216,
              rank: "master",
              name: "Kulu Beta +",
-             pieces: 
+             pieces: [
               928,
               929,
               930,
@@ -90127,27 +91569,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 726,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1950,
+                  name: "Kulu-Ya-Ku Thickhide",
+                  description: "Very rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 723,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2550,
+                  name: "Large Kulu-Ya-Ku Beak",
+                  description: "Very rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 769,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 960,
+                  name: "Jagras Shard",
+                  description: "Very rare Jagras material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -90217,31 +91668,40 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 726,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1950,
+                  name: "Kulu-Ya-Ku Thickhide",
+                  description: "Very rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 725,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1350,
+                  name: "Kulu-Ya-Ku Shard",
+                  description: "Very rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 769,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 960,
+                  name: "Jagras Shard",
+                  description: "Very rare Jagras material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
-          }
+          } 
         },
         {
            id: 933,
@@ -90302,27 +91762,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 727,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Pukei-Pukei Cortex",
+                  description: "Very rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 728,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2920,
+                  name: "Pukei-Pukei Fellwing",
+                  description: "Very rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 729,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2980,
+                  name: "Large Pukei-Pukei Sac",
+                  description: "Very rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties."
                 }
               }
           ]
@@ -90390,27 +91859,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 727,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Pukei-Pukei Cortex",
+                  description: "Very rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 1142,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1580,
+                  name: "Pukei-Pukei Shard",
+                  description: "Very rare Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 729,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2980,
+                  name: "Large Pukei-Pukei Sac",
+                  description: "Very rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties."
                 }
               }
           ]
@@ -90478,27 +91956,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 727,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Pukei-Pukei Cortex",
+                  description: "Very rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 1142,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1580,
+                  name: "Pukei-Pukei Shard",
+                  description: "Very rare Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 662,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Meldspar Ore",
+                  description: "Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
                 }
               }
           ]
@@ -90534,18 +92032,18 @@ const armorData = [
         skills: [
          {
                id: 105,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Poison buildup +5% Bonus: +10"",
+              description: "Poison buildup +5% Bonus: +10",
               skill: 31,
-              skillName: ""Pison Attack""
+              skillName: "Poison Attack"
             },
             {
                id: 231,
               level: 1,
               modifiers: {},
               description: "Item effect duration +10%",
-              skill: 73
+              skill: 73,
                skillName: "Item Prolonger"
             }
           ],
@@ -90569,27 +92067,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 727,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Pukei-Pukei Cortex",
+                  description: "Very rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 730,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2860,
+                  name: "Pukei-Pukei Lash",
+                  description: "Very rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 728,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2920,
+                  name: "Pukei-Pukei Fellwing",
+                  description: "Very rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 671,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Deadly Poison Sac",
+                  description: "A monster organ that contains an extremely virulent toxin. Handle with extreme care."
                 }
               }
           ]
@@ -90636,7 +92154,7 @@ const armorData = [
              id: 217,
              rank: "master",
              name: "Pukei Beta +",
-             pieces: 
+             pieces: [
               933,
               934,
               935,
@@ -90652,27 +92170,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 727,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2220,
+                  name: "Pukei-Pukei Cortex",
+                  description: "Very rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 1142,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1580,
+                  name: "Pukei-Pukei Shard",
+                  description: "Very rare Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 729,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2980,
+                  name: "Large Pukei-Pukei Sac",
+                  description: "Very rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties."
                 }
               }
           ]
@@ -90740,27 +92267,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 717,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3360,
+                  name: "Coral Pukei-Pukei Cortex",
+                  description: "Very rare Coral Pukei-Pukei material. Mostly obtained as a reward Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 718,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4460,
+                  name: "Coral Pukei-Pukei Fellwing",
+                  description: "Very rare Coral Pukei-Pukei material. Obtained by breaking its wings. used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 719,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4540,
+                  name: "Large Coral Pukei-Pukei Sac",
+                  description: "Very rare Coral Pukei-Pukei material. Obtained by breaking its head. Grants water element properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 672,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Flood Sac",
+                  description: "A monster organ designed to hold and preserve tremendous amounts of water."
                 }
               }
           ]
@@ -90796,7 +92343,7 @@ const armorData = [
         skills: [
          {
                id: 139,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Bonus duration +10%",
               skill: 43,
@@ -90807,7 +92354,7 @@ const armorData = [
              id: 218,
              rank: "master",
              name: "Coral Pukei Beta +",
-             pieces: 
+             pieces: [
               938,
               939,
               940,
@@ -90823,27 +92370,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 717,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3360,
+                  name: "Coral Pukei-Pukei Cortex",
+                  description: "Very rare Coral Pukei-Pukei material. Mostly obtained as a reward Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 721,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2340,
+                  name: "Coral Pukei-Pukei Shard",
+                  description: "Very rare Coral Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               }
           ]
@@ -90879,7 +92435,7 @@ const armorData = [
         skills: [
          {
                id: 150,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Part damage +10%",
               skill: 46,
@@ -90890,7 +92446,7 @@ const armorData = [
              id: 218,
              rank: "master",
              name: "Coral Pukei Beta +",
-             pieces: 
+             pieces: [
               938,
               939,
               940,
@@ -90906,27 +92462,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 717,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3360,
+                  name: "Coral Pukei-Pukei Cortex",
+                  description: "Very rare Coral Pukei-Pukei material. Mostly obtained as a reward Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 721,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2340,
+                  name: "Coral Pukei-Pukei Shard",
+                  description: "Very rare Coral Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 660,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1620,
+                  name: "Bathycite Ore",
+                  description: "Ore from Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms."
                 }
               }
           ]
@@ -90996,27 +92561,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 717,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3360,
+                  name: "Coral Pukei-Pukei Cortex",
+                  description: "Very rare Coral Pukei-Pukei material. Mostly obtained as a reward Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 721,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2340,
+                  name: "Coral Pukei-Pukei Shard",
+                  description: "Very rare Coral Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 719,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4540,
+                  name: "Large Coral Pukei-Pukei Sac",
+                  description: "Very rare Coral Pukei-Pukei material. Obtained by breaking its head. Grants water element properties."
                 }
               }
           ]
@@ -91052,18 +92626,18 @@ const armorData = [
         skills: [
          {
                id: 232,
-              level :2,
+              level:2,
              modifiers: {},
-              description: "tem effect duration +25%",
+              description: "Item effect duration +25%",
               skill: 73,
-              skillName: ""Iem Prolonger""
+              skillName: "Item Prolonger"
             }
           ],
           armorSet: {
              id: 218,
              rank: "master",
              name: "Coral Pukei Beta +",
-             pieces: 
+             pieces: [
               938,
               939,
               940,
@@ -91079,27 +92653,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 717,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3360,
+                  name: "Coral Pukei-Pukei Cortex",
+                  description: "Very rare Coral Pukei-Pukei material. Mostly obtained as a reward Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 720,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4380,
+                  name: "Coral Pukei-Pukei Lash",
+                  description: "Very rare Coral Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 718,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4460,
+                  name: "Coral Pukei-Pukei Fellwing",
+                  description: "Very rare Coral Pukei-Pukei material. Obtained by breaking its wings. used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 672,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Flood Sac",
+                  description: "A monster organ designed to hold and preserve tremendous amounts of water."
                 }
               }
           ]
@@ -91135,7 +92729,7 @@ const armorData = [
         skills: [
          {
                id: 219,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Slightly decreases the impact of attacks and reduces stamina depletion by 15%.",
               skill: 70,
@@ -91146,7 +92740,7 @@ const armorData = [
              id: 219,
              rank: "master",
              name: "Barroth Beta +",
-             pieces: 
+             pieces: [
               943,
               944,
               945,
@@ -91162,27 +92756,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 838,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2170,
+                  name: "Barroth Chine",
+                  description: "Very rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 839,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1470,
+                  name: "Barroth Cortex",
+                  description: "Very rare Barroth material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 847,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1610,
+                  name: "Rich Mud",
+                  description: "Very rare Barroth material. Obtained by breaking its mud covering. Unusual, used in select gear."
                 }
               }
           ]
@@ -91218,7 +92832,7 @@ const armorData = [
         skills: [
          {
                id: 157,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Exhaust power +30%",
               skill: 48,
@@ -91229,7 +92843,7 @@ const armorData = [
              id: 219,
              rank: "master",
              name: "Barroth Beta +",
-             pieces: 
+             pieces: [
               943,
               944,
               945,
@@ -91245,27 +92859,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 838,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2170,
+                  name: "Barroth Chine",
+                  description: "Very rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 839,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1470,
+                  name: "Barroth Cortex",
+                  description: "Very rare Barroth material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 847,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1610,
+                  name: "Rich Mud",
+                  description: "Very rare Barroth material. Obtained by breaking its mud covering. Unusual, used in select gear."
                 }
               }
           ]
@@ -91301,7 +92924,7 @@ const armorData = [
         skills: [
          {
                id: 195,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 15%.",
               skill: 63,
@@ -91312,7 +92935,7 @@ const armorData = [
              id: 219,
              rank: "master",
              name: "Barroth Beta +",
-             pieces: 
+             pieces: [
               943,
               944,
               945,
@@ -91328,27 +92951,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 838,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2170,
+                  name: "Barroth Chine",
+                  description: "Very rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 842,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3280,
+                  name: "Barroth Lash",
+                  description: "Very rare Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 758,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2140,
+                  name: "Gastodon Husk",
+                  description: "Very rare Gastodon material. Obtained by carving. Studry, used to craft gear."
                 }
               }
           ]
@@ -91408,27 +93040,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 838,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2170,
+                  name: "Barroth Chine",
+                  description: "Very rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 840,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3430,
+                  name: "Barroth Crown",
+                  description: "Very rare Barroth material. Obtained by breaking its scalp. Tough, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 841,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2870,
+                  name: "Barroth Hardclaw",
+                  description: "Very rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 847,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1610,
+                  name: "Rich Mud",
+                  description: "Very rare Barroth material. Obtained by breaking its mud covering. Unusual, used in select gear."
                 }
               }
           ]
@@ -91493,27 +93145,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 838,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2170,
+                  name: "Barroth Chine",
+                  description: "Very rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 839,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1470,
+                  name: "Barroth Cortex",
+                  description: "Very rare Barroth material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 841,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2870,
+                  name: "Barroth Hardclaw",
+                  description: "Very rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons."
                 }
               }
           ]
@@ -91549,7 +93210,7 @@ const armorData = [
         skills: [
          {
                id: 136,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases gauge fill rate by 5% and reduces charge times by 5%.",
               skill: 42,
@@ -91560,7 +93221,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
-              skill: 51
+              skill: 51,
                skillName: "Latent Power"
             }
           ],
@@ -91584,27 +93245,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 704,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2180,
+                  name: "Jyuratodus Cortex",
+                  description: "Very rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 706,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2880,
+                  name: "Jyuratodus Hardfang",
+                  description: "Very rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 705,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3040,
+                  name: "Jyuratodus Grandfin",
+                  description: "Very rare Jyuratodus material. Obtained by breaking its back. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 708,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1920,
+                  name: "Steel Gajau Whisker",
+                  description: "Very rare Gajau material. Obtained by carving. Hardy, used to craft gear."
                 }
               }
           ]
@@ -91674,27 +93355,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 704,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2180,
+                  name: "Jyuratodus Cortex",
+                  description: "Very rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 707,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1480,
+                  name: "Jyuratodus Shard",
+                  description: "Very rare Jyuratodus material. Mostly obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 703,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1680,
+                  name: "Gajau Thickhide",
+                  description: "Very rare Gajau material. Obtained by carving. Water-resistant, used to craft gear."
                 }
               }
           ]
@@ -91741,7 +93431,7 @@ const armorData = [
           ],
           armorSet: {
              id: 220,
-             rank: "m ster"
+             rank: "master",
              name: "Jyura Beta +",
              pieces: [
               948,
@@ -91759,27 +93449,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 704,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2180,
+                  name: "Jyuratodus Cortex",
+                  description: "Very rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 707,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1480,
+                  name: "Jyuratodus Shard",
+                  description: "Very rare Jyuratodus material. Mostly obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 676,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Toughbone",
+                  description: "Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential."
                 }
               }
           ]
@@ -91819,14 +93518,14 @@ const armorData = [
              modifiers: {
                 resistIce:12
               },
-              description: "Ic resistance +12",
+              description: "Ice resistance +12",
               skill: 22,
                skillName: "Ice Resistance"
             }
           ],
           armorSet: {
              id: 220,
-             rank: "m ster"
+             rank: "master",
              name: "Jyura Beta +",
              pieces: [
               948,
@@ -91844,27 +93543,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 704,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2180,
+                  name: "Jyuratodus Cortex",
+                  description: "Very rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 707,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1480,
+                  name: "Jyuratodus Shard",
+                  description: "Very rare Jyuratodus material. Mostly obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 672,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Flood Sac",
+                  description: "A monster organ designed to hold and preserve tremendous amounts of water."
                 }
               }
           ]
@@ -91937,27 +93645,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 707,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1480,
+                  name: "Jyuratodus Shard",
+                  description: "Very rare Jyuratodus material. Mostly obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 706,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2880,
+                  name: "Jyuratodus Hardfang",
+                  description: "Very rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 705,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3040,
+                  name: "Jyuratodus Grandfin",
+                  description: "Very rare Jyuratodus material. Obtained by breaking its back. Used for many purposes."
                 }
               }
           ]
@@ -91993,18 +93710,18 @@ const armorData = [
         skills: [
          {
                id: 286,
-              level :2,
+              level:2,
              modifiers: {},
-              description: "ncreases your evade window and prevents lowered movement speed.",
+              description: "Increases your evade window and prevents lowered movement speed.",
               skill: 96,
-              skillName: ""Auatic/Polar Mobility""
+              skillName: "Aquatic/Polar Mobility"
             }
           ],
           armorSet: {
              id: 221,
              rank: "master",
              name: "Beo Beta +",
-             pieces: 
+             pieces: [
               953,
               954,
               955,
@@ -92020,27 +93737,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 699,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2230,
+                  name: "Beotodus Cortex",
+                  description: "Very rare Beotodus material. Mostly obtained as a reward. Hardly, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 702,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1530,
+                  name: "Beotodus Shard",
+                  description: "Very rare Beotodus material. Mostly obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 700,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3190,
+                  name: "Beotodus Grandfin",
+                  description: "Very rare Beotodus material. Obtained by breaking its back. Used for many purposes."
                 }
               }
           ]
@@ -92076,7 +93802,7 @@ const armorData = [
         skills: [
          {
                id: 204,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Stamina recovery speed +10%",
               skill: 66,
@@ -92087,7 +93813,7 @@ const armorData = [
              id: 221,
              rank: "master",
              name: "Beo Beta +",
-             pieces: 
+             pieces: [
               953,
               954,
               955,
@@ -92103,27 +93829,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 699,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2230,
+                  name: "Beotodus Cortex",
+                  description: "Very rare Beotodus material. Mostly obtained as a reward. Hardly, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 702,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1530,
+                  name: "Beotodus Shard",
+                  description: "Very rare Beotodus material. Mostly obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 701,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2930,
+                  name: "Beotodus Hardhorn",
+                  description: "Very rare Beotodus material. Obtained by breaking its head. Sharp, used in many weapons."
                 }
               }
           ]
@@ -92185,27 +93920,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 699,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2230,
+                  name: "Beotodus Cortex",
+                  description: "Very rare Beotodus material. Mostly obtained as a reward. Hardly, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 700,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3190,
+                  name: "Beotodus Grandfin",
+                  description: "Very rare Beotodus material. Obtained by breaking its back. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 670,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4200,
+                  name: "Cryo Sac",
+                  description: "A monster organ that contains a potent freezing agent. Able to cover a broad area in ice instantaneously."
                 }
               }
           ]
@@ -92243,7 +93987,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             },
@@ -92278,27 +94022,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 699,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2230,
+                  name: "Beotodus Cortex",
+                  description: "Very rare Beotodus material. Mostly obtained as a reward. Hardly, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 702,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1530,
+                  name: "Beotodus Shard",
+                  description: "Very rare Beotodus material. Mostly obtained by carving. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 670,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4200,
+                  name: "Cryo Sac",
+                  description: "A monster organ that contains a potent freezing agent. Able to cover a broad area in ice instantaneously."
                 }
               }
           ]
@@ -92346,7 +94099,7 @@ const armorData = [
               953,
               954,
               955, 
-          956,
+              956,
               957
             ],
             bonus: null 
@@ -92358,27 +94111,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 699,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2230,
+                  name: "Beotodus Cortex",
+                  description: "Very rare Beotodus material. Mostly obtained as a reward. Hardly, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 701,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2930,
+                  name: "Beotodus Hardhorn",
+                  description: "Very rare Beotodus material. Obtained by breaking its head. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 700,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3190,
+                  name: "Beotodus Grandfin",
+                  description: "Very rare Beotodus material. Obtained by breaking its back. Used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 661,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1540,
+                  name: "Gracium",
+                  description: "Ore from the Hoarfrost Reach. When the light catches this rare and useful metal it takes on a pale blue shine."
                 }
               }
           ]
@@ -92414,7 +94187,7 @@ const armorData = [
         skills: [
          {
                id: 198,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Reduces fixed stamina depletion by 10%.",
               skill: 64,
@@ -92425,7 +94198,7 @@ const armorData = [
               level: 1,
               modifiers: {},
               description: "Slightly extends evasion distance.",
-              skill: 69
+              skill: 69,
                skillName: "Evade Extender"
             }
           ],
@@ -92449,27 +94222,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 777,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Tobi-Kadachi Thickfur",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 773,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3070,
+                  name: "Tobi-Kadachi Cathode",
+                  description: "Very rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 774,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2890,
+                  name: "Tobi-Kadachi Hardclaw",
+                  description: "Very rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 693,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2000,
+                  name: "Monster Essence",
+                  description: "Material obtained from master rank small insects. The densest, most viscious fluids available. Very icky."
                 }
               }
           ]
@@ -92493,7 +94286,7 @@ const armorData = [
              dragon: 0
           },
            attributes: {},
-           name: ""Kadachi Mail" Beta +",
+           name: "Kadachi Mail Beta +",
            slots: [
           {
            rank: 4
@@ -92505,18 +94298,18 @@ const armorData = [
         skills: [
          {
                id: 281,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Negates knockback during jumps."",
+              description: "Negates knockback during jumps.",
               skill: 94,
-              skillName: ""Jmp Master""
+              skillName: "Jump Master"
             }
           ],
           armorSet: {
              id: 222,
              rank: "master",
              name: "Kadachi Beta +",
-             pieces: 
+             pieces: [
               958,
               959,
               960,
@@ -92532,27 +94325,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 777,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Tobi-Kadachi Thickfur",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 776,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1490,
+                  name: "Tobi-Kadachi Shard",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 775,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3200,
+                  name: "Tobi-Kadachi Membrane+",
+                  description: "Very rare Tobi-Kadachi material. Obtained by carving. Supple, used to craft gear."
                 }
               }
           ]
@@ -92625,27 +94427,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 777,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Tobi-Kadachi Thickfur",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 776,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1490,
+                  name: "Tobi-Kadachi Shard",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 774,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2890,
+                  name: "Tobi-Kadachi Hardclaw",
+                  description: "Very rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 675,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Lightning Sac",
+                  description: "A monster organ that can store electricity as strong as lightning. It rumbles like thunder."
                 }
               }
           ]
@@ -92692,7 +94514,7 @@ const armorData = [
           ],
           armorSet: {
              id: 222,
-             rank: "m ster"
+             rank: "master",
              name: "Kadachi Beta +",
              pieces: [
               958,
@@ -92710,27 +94532,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 777,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Tobi-Kadachi Thickfur",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 776,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1490,
+                  name: "Tobi-Kadachi Shard",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 675,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Lightning Sac",
+                  description: "A monster organ that can store electricity as strong as lightning. It rumbles like thunder."
                 }
               }
           ]
@@ -92797,27 +94628,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 777,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Tobi-Kadachi Thickfur",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 775,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3200,
+                  name: "Tobi-Kadachi Membrane+",
+                  description: "Very rare Tobi-Kadachi material. Obtained by carving. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 773,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3070,
+                  name: "Tobi-Kadachi Cathode",
+                  description: "Very rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties."
                 }
               }
           ]
@@ -92885,27 +94725,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 782,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4570,
+                  name: "Viper Tobi-Kadachi Thorn",
+                  description: "Very rare Viper Tobi-Kadachi material. Obtained by breaking its head. Grants poisonous properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 778,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4390,
+                  name: "Viper Tobi-Kadachi Hardclaw",
+                  description: "Very rare Viper Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 783,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1240,
+                  name: "Wulg Thickfur",
+                  description: "Ver rare Wulg material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -92929,7 +94789,7 @@ const armorData = [
              dragon: 1
           },
            attributes: {},
-           name: "Viper "Kadachi Mail" Beta +",
+           name: "Viper Kadachi Mail Beta +",
            slots: [
           {
            rank: 4
@@ -92941,18 +94801,18 @@ const armorData = [
         skills: [
          {
                id: 223,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Slightly increases sheathing speed."",
+              description: "Slightly increases sheathing speed.",
               skill: 71,
-              skillName: ""Qick Sheath""
+              skillName: "Quick Sheath"
             }
           ],
           armorSet: {
              id: 223,
              rank: "master",
              name: "Viper Kadachi Beta +",
-             pieces: 
+             pieces: [
               963,
               964,
               965,
@@ -92968,27 +94828,36 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 780,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Viper Tobi-Kadachi Shard",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
-                }
-              },
-              {
-                quantity: ,
-                item: {
-                 
+                  id: 779,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4700,
+                  name: "Viper Tobi-Kadachi Membrane+",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
                 }
               }
           ]
@@ -93056,27 +94925,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 780,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Viper Tobi-Kadachi Shard",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 778,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4390,
+                  name: "Viper Tobi-Kadachi Hardclaw",
+                  description: "Very rare Viper Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 671,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Deadly Poison Sac",
+                  description: "A monster organ that contains an extremely virulent toxin. Handle with extreme care."
                 }
               }
           ]
@@ -93112,7 +95001,7 @@ const armorData = [
         skills: [
          {
                id: 198,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Reduces fixed stamina depletion by 10%.",
               skill: 64,
@@ -93123,7 +95012,7 @@ const armorData = [
              id: 223,
              rank: "master",
              name: "Viper Kadachi Beta +",
-             pieces: 
+             pieces: [
               963,
               964,
               965,
@@ -93139,27 +95028,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 780,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 2190,
+                  name: "Viper Tobi-Kadachi Shard",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 779,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4700,
+                  name: "Viper Tobi-Kadachi Membrane+",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 671,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3400,
+                  name: "Deadly Poison Sac",
+                  description: "A monster organ that contains an extremely virulent toxin. Handle with extreme care."
                 }
               }
           ]
@@ -93195,18 +95104,18 @@ const armorData = [
         skills: [
          {
                id: 210,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Very slightly increases invulnerability window."",
+              description: "Very slightly increases invulnerability window.",
               skill: 68,
-              skillName: ""Eade Window""
+              skillName: "Evade Window"
             }
           ],
           armorSet: {
              id: 223,
              rank: "master",
              name: "Viper Kadachi Beta +",
-             pieces: 
+             pieces: [
               963,
               964,
               965,
@@ -93222,27 +95131,47 @@ const armorData = [
           crafting: {
             materials: [
               {
-                quantity: ,
+                quantity: 2,
                 item: {
-                 
+                  id: 781,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 3290,
+                  name: "Viper Tobi-Kadachi Thickfur",
+                  description: "Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly thuder-resistant, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 779,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4700,
+                  name: "Viper Tobi-Kadachi Membrane+",
+                  description: "Very rare Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
                 }
               },
               {
-                quantity: ,
+                quantity: 1,
                 item: {
-                 
+                  id: 782,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 4570,
+                  name: "Viper Tobi-Kadachi Thorn",
+                  description: "Very rare Viper Tobi-Kadachi material. Obtained by breaking its head. Grants poisonous properties."
                 }
               },
               {
-                quantity: ,
+                quantity: 3,
                 item: {
-                 
+                  id: 783,
+                  rarity: 9,
+                  carryLimit: 99,
+                  value: 1240,
+                  name: "Wulg Thickfur",
+                  description: "Ver rare Wulg material. Obtained by carving. Used for many purposes."
                 }
               }
           ]
@@ -93280,7 +95209,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             },
@@ -93373,7 +95302,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             },
@@ -93466,9 +95395,9 @@ const armorData = [
                id: 47,
               level: 2,
              modifiers: {
-                "defens ": 1
+                defense: 1
               },
-              description: "Deense +10",
+              description: "Defense +10",
               skill: 16,
                skillName: "Defense Boost"
             },
@@ -93561,7 +95490,7 @@ const armorData = [
                id: 46,
               level: 1,
              modifiers: {
-                "defens ": 5              },
+                defense: 5              },
               description: "Defense +5",
               skill  16,
              skillName: "Defense Boost"
@@ -93743,7 +95672,7 @@ const armorData = [
         skills: [
          {
                id: 181,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +10.",
               skill: 56,
@@ -93754,7 +95683,7 @@ const armorData = [
              id: 225,
              rank: "master",
              name: "Banbaro Beta +",
-             pieces: 
+             pieces: [
               973,
               974,
               975,
@@ -93826,7 +95755,7 @@ const armorData = [
         skills: [
          {
                id: 235,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Slightly increases item use speed."",
               skill: 75,
@@ -93837,7 +95766,7 @@ const armorData = [
              id: 225,
              rank: "master",
              name: "Banbaro Beta +",
-             pieces: 
+             pieces: [
               973,
               974,
               975,
@@ -93920,7 +95849,7 @@ const armorData = [
               modifiers: {},
               description: "While active, increases attack power by 5%.",
               skill: 138,
-               skillName: "Offensive G uar"
+               skillName: "Offensive Guard"
         }
           ],
           armorSet: {
@@ -93999,7 +95928,7 @@ const armorData = [
         skills: [
          {
                id: 244,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ets you digest blue mushrooms and toadstools.",
               skill: 78,
@@ -94010,7 +95939,7 @@ const armorData = [
              id: 225,
              rank: "master",
              name: "Banbaro Beta +",
-             pieces: 
+             pieces: [
               973,
               974,
               975,
@@ -94082,7 +96011,7 @@ const armorData = [
         skills: [
          {
                id: 244,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ets you digest blue mushrooms and toadstools.",
               skill: 78,
@@ -94093,7 +96022,7 @@ const armorData = [
              id: 225,
              rank: "master",
              name: "Banbaro Beta +",
-             pieces: 
+             pieces: [
               973,
               974,
               975,
@@ -94247,9 +96176,9 @@ const armorData = [
         skills: [
          {
                id: 188,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Increases the power of bowgun special ammo and Dragon Piercer by 10%."",
+              description: "Increases the power of bowgun special ammo and Dragon Piercer by 10%.",
               skill: 60,
               skillName: "Special Ammo Boost"
             },
@@ -94349,7 +96278,7 @@ const armorData = [
               modifiers: {},
               description: "Increases the power of bowgun special ammo and Dragon Piercer by 10%.",
               skill: 60,
-               skillName: ""Special Ammo Bo ost"
+               skillName: "Special Ammo Boost"
         }
           ],
           armorSet: {
@@ -94430,16 +96359,16 @@ const armorData = [
                id: 63,
               level: 2,
              modifiers: {
-                resistFire 12
+                resistFire: 12
               },
-              description: ""Fre resistance" +12",
+              description: "Fire resistance +12",
               skill: 20,
                skillName: "Fire Resistance"
             }
           ],
           armorSet: {
              id: 226,
-             rank: "m ster"
+             rank: "master",
              name: "Anja Beta +",
              pieces: [
               978,
@@ -94513,7 +96442,7 @@ const armorData = [
         skills: [
          {
                id: 191,
-              level :2,
+              level:2,
              modifiers: {},
               description: "ncreases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.",
               skill: 61,
@@ -94524,7 +96453,7 @@ const armorData = [
              id: 226,
              rank: "master",
              name: "Anja Beta +",
-             pieces: 
+             pieces: [
               978,
               980,
               981,
@@ -94596,7 +96525,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -94607,7 +96536,7 @@ const armorData = [
              id: 227,
              rank: "master",
              name: "Fulgur Anja Beta +",
-             pieces: 
+             pieces: [
               984,
               985,
               986,
@@ -94767,18 +96696,18 @@ const armorData = [
         skills: [
          {
                id: 232,
-              level :2,
+              level:2,
              modifiers: {},
-              description: "tem effect duration +25%",
+              description: "Item effect duration +25%",
               skill: 73,
-              skillName: ""Iem Prolonger""
+              skillName: "Item Prolonger"
             }
           ],
           armorSet: {
              id: 227,
              rank: "master",
              name: "Fulgur Anja Beta +",
-             pieces: 
+             pieces: [
               984,
               985,
               986,
@@ -94850,7 +96779,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -94952,7 +96881,7 @@ const armorData = [
           ],
           armorSet: {
              id: 227,
-             rank: "m ster"
+             rank: "master",
              name: "Fulgur Anja Beta +",
              pieces: [
               984,
@@ -95460,7 +97389,7 @@ const armorData = [
         skills: [
          {
                id: 216,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Extends evasion distance.",
               skill: 69,
@@ -95471,7 +97400,7 @@ const armorData = [
              id: 229,
              rank: "master",
              name: "Rath Heart Beta +",
-             pieces: 
+             pieces: [
               994,
               995,
               996,
@@ -95639,7 +97568,7 @@ const armorData = [
              id: 229,
              rank: "master",
              name: "Rath Heart Beta +",
-             pieces: 
+             pieces: [
               994,
               995,
               996,
@@ -95801,7 +97730,7 @@ const armorData = [
         skills: [
          {
                id: 301,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Shortens time until reuse by 10%.",
               skill: 106,
@@ -95812,7 +97741,7 @@ const armorData = [
              id: 229,
              rank: "master",
              name: "Rath Heart Beta +",
-             pieces: 
+             pieces: [
               994,
               995,
               996,
@@ -95884,7 +97813,7 @@ const armorData = [
         skills: [
          {
                id: 205,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tamina recovery speed +20%",
               skill: 66,
@@ -95895,7 +97824,7 @@ const armorData = [
              id: 230,
              rank: "master",
              name: "Lumu Beta +",
-             pieces: 
+             pieces: [
               999,
               1000,
               1001,
@@ -95967,9 +97896,9 @@ const armorData = [
         skills: [
          {
                id: 159,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "akes it easier to mount monsters and down mounted monsters.",
+              description: "Makes it easier to mount monsters and down mounted monsters.",
               skill: 49,
               skillName: "Mater Mounter"
             }
@@ -95978,7 +97907,7 @@ const armorData = [
              id: 230,
              rank: "master",
              name: "Lumu Beta +",
-             pieces: 
+             pieces: [
               999,
               1000,
               1001,
@@ -96243,7 +98172,7 @@ const armorData = [
              id: 230,
              rank: "master",
              name: "Lumu Beta +",
-             pieces: 
+             pieces: [
               999,
               1000,
               1001,
@@ -96395,7 +98324,7 @@ const armorData = [
         skills: [
          {
                id: 227,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Items affect nearby allies in a wider radius with 33% of their efficacy.",
               skill: 72,
@@ -97310,7 +99239,7 @@ const armorData = [
         skills: [
          {
                id: 121,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Draws out 66% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -97401,7 +99330,7 @@ const armorData = [
         skills: [
          {
                id: 123,
-              level :1,
+              level:1,
              modifiers: {
                 affinity: 
               },
@@ -97494,7 +99423,7 @@ const armorData = [
         skills: [
          {
                id: 172,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +10.",
               skill: 53,
@@ -97585,7 +99514,7 @@ const armorData = [
         skills: [
          {
                id: 120,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Draws out 33% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -97846,7 +99775,7 @@ const armorData = [
         skills: [
          {
                id: 123,
-              level :1,
+              level:1,
              modifiers: {
                 affinity: 
               },
@@ -98019,7 +99948,7 @@ const armorData = [
         skills: [
          {
                id: 150,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Part damage +10%",
               skill: 46,
@@ -98110,7 +100039,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -98377,7 +100306,7 @@ const armorData = [
         skills: [
          {
                id: 130,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases damage dealt by critical hits by 30%.",
               skill: 40,
@@ -98468,7 +100397,7 @@ const armorData = [
         skills: [
          {
                id: 150,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Part damage +10%",
               skill: 46,
@@ -98559,7 +100488,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -98722,7 +100651,7 @@ const armorData = [
         skills: [
          {
                id: 151,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Part damage +20%",
               skill: 46,
@@ -99355,7 +101284,7 @@ const armorData = [
           ],
           armorSet: {
              id: 238,
-             rank: "m ster"
+             rank: "master",
              name: "Ingot Beta +",
              pieces: [
               1039,
@@ -99871,7 +101800,7 @@ const armorData = [
         skills: [
          {
                id: 250,
-              level :1,
+              level:1,
              modifiers: {},
               description: "One extra honey per gather."",
               skill: 82,
@@ -100055,7 +101984,7 @@ const armorData = [
         skills: [
          {
                id: 260,
-              level :1,
+              level:1,
              modifiers: {},
               description: "One extra consumable herb item per gather."",
               skill: 86,
@@ -100146,7 +102075,7 @@ const armorData = [
         skills: [
          {
                id: 298,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases the likelihood of rare gathering points respawning."",
               skill: 103,
@@ -100237,7 +102166,7 @@ const armorData = [
         skills: [
          {
                id: 264,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Allows you to gather one extra time from bonepiles.",
               skill: 87,
@@ -100328,7 +102257,7 @@ const armorData = [
         skills: [
          {
                id: 250,
-              level :1,
+              level:1,
              modifiers: {},
               description: "One extra honey per gather."",
               skill: 82,
@@ -100504,7 +102433,7 @@ const armorData = [
         skills: [
          {
                id: 260,
-              level :1,
+              level:1,
              modifiers: {},
               description: "One extra consumable herb item per gather."",
               skill: 86,
@@ -100595,7 +102524,7 @@ const armorData = [
         skills: [
          {
                id: 298,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases the likelihood of rare gathering points respawning."",
               skill: 103,
@@ -100678,7 +102607,7 @@ const armorData = [
         skills: [
          {
                id: 277,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Prevents standard knockbacks. Tripping is reduced to a knockback. Increases some Kinsect extract effects.",
               skill: 91,
@@ -100761,7 +102690,7 @@ const armorData = [
         skills: [
          {
                id: 268,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, increases affinity by 20%.",
               skill: 88,
@@ -100844,7 +102773,7 @@ const armorData = [
         skills: [
          {
                id: 205,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tamina recovery speed +20%",
               skill: 66,
@@ -100938,7 +102867,7 @@ const armorData = [
             {
                id: 167,
               level: 2,
-              "modifiers : {},              
+               modifiers: {},              
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
                skillName: "Agitator"
@@ -101022,7 +102951,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             },
@@ -101196,7 +103125,7 @@ const armorData = [
         skills: [
          {
                id: 204,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Stamina recovery speed +10%",
               skill: 66,
@@ -101287,7 +103216,7 @@ const armorData = [
         skills: [
          {
                id: 205,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tamina recovery speed +20%",
               skill: 66,
@@ -101470,7 +103399,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             },
@@ -101812,7 +103741,7 @@ const armorData = [
         skills: [
          {
                id: 272,
-              level :3,
+              level:3,
              modifiers: {},
               description: "n addition, increases the loading capacity for all slinger ammo dropped by monsters.",
               skill: 89,
@@ -102540,7 +104469,7 @@ const armorData = [
           armorSet: {
              id: 246,
              rank: "master",
-             name: "Golden Lune Be a +",             pieces: [
+             name: "Golden Lune Beta +",             pieces: [
               1075,
               1076,
               1077,
@@ -102697,7 +104626,7 @@ const armorData = [
         skills: [
          {
                id: 181,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +10.",
               skill: 56,
@@ -102780,7 +104709,7 @@ const armorData = [
         skills: [
          {
                id: 254,
-              level :3,
+              level:3,
              modifiers: {},
               description: "While active, reduces damage taken by 50%.",
               skill: 84,
@@ -103034,7 +104963,7 @@ const armorData = [
         skills: [
          {
                id: 180,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 56,
@@ -103651,7 +105580,7 @@ const armorData = [
         skills: [
          {
                id: 139,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Bonus duration +10%",
               skill: 43,
@@ -104274,7 +106203,7 @@ const armorData = [
         skills: [
          {
                id: 123,
-              level :1,
+              level:1,
              modifiers: {
                 affinity: 
               },
@@ -104537,7 +106466,7 @@ const armorData = [
         skills: [
          {
                id: 181,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +10.",
               skill: 56,
@@ -104967,11 +106896,11 @@ const armorData = [
         skills: [
          {
                id: 106,
-              level :2,
+              level:2,
              modifiers: {},
               description: "oison buildup +10% Bonus: +10",
               skill: 31,
-              skillName: ""Pison Attack""
+              skillName: "Poison Attack"
             },
             {
                id: 181,
@@ -105058,7 +106987,7 @@ const armorData = [
         skills: [
          {
                id: 118,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ncreases the power of piercing ammo and Dragon Piercer.",
               skill: 36,
@@ -105240,7 +107169,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             }
           ],
           armorSet: {
@@ -105319,7 +107248,7 @@ const armorData = [
         skills: [
          {
                id: 277,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Prevents standard knockbacks. Tripping is reduced to a knockback. Increases some Kinsect extract effects.",
               skill: 91,
@@ -105406,7 +107335,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             }
           ],
           armorSet: {
@@ -105487,7 +107416,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             }
@@ -105568,7 +107497,7 @@ const armorData = [
         skills: [
          {
                id: 191,
-              level :2,
+              level:2,
              modifiers: {},
               description: "ncreases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.",
               skill: 61,
@@ -105663,7 +107592,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             },
             {
                id: 191,
@@ -105750,11 +107679,11 @@ const armorData = [
         skills: [
          {
                id: 234,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Activates 25% of the time."",
+              description: "Activates 25% of the time.",
               skill: 74,
-              skillName: ""Fee Meal""
+              skillName: "Free Meal"
             },
             {
                id: 277,
@@ -105845,7 +107774,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             },
             {
                id: 190,
@@ -105934,7 +107863,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             },
@@ -106108,7 +108037,7 @@ const armorData = [
         skills: [
          {
                id: 357,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +15, element attack power +60, and status buildup + 10%.",
               skill: 146,
@@ -106282,7 +108211,7 @@ const armorData = [
           armorSet: {
              id: 254,
              rank: "master",
-             name: "Shara Ishvalda Be a +",             pieces: [
+             name: "Shara Ishvalda Beta +",             pieces: [
               1115,
               1116,
               1117,
@@ -107257,7 +109186,7 @@ const armorData = [
         skills: [
          {
                id: 205,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tamina recovery speed +20%",
               skill: 66,
@@ -107876,7 +109805,7 @@ const armorData = [
         skills: [
          {
                id: 124,
-              level :2,
+              level:2,
              modifiers: {
                 affinity: 0
               },
@@ -108221,7 +110150,7 @@ const armorData = [
         skills: [
          {
                id: 196,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 30%.",
               skill: 63,
@@ -108312,7 +110241,7 @@ const armorData = [
         skills: [
          {
                id: 125,
-              level :3,
+              level:3,
              modifiers: {
                 affinity: 5
               },
@@ -108769,7 +110698,7 @@ const armorData = [
         skills: [
          {
                id: 143,
-              level :2,
+              level:2,
              modifiers: {
                 sharpnessBonus: 20
               },
@@ -108780,7 +110709,7 @@ const armorData = [
           ],
           armorSet: {
              id: 260,
-             rank: "m ster"
+             rank: "master",
              name: "Kushala Beta +",
              pieces: [
               1145,
@@ -108854,11 +110783,11 @@ const armorData = [
         skills: [
          {
                id: 211,
-              level :2,
+              level:2,
              modifiers: {},
               description: "lightly increases invulnerability window.",
               skill: 68,
-              skillName: ""Eade Window""
+              skillName: "Evade Window"
             }
           ],
           armorSet: {
@@ -108948,7 +110877,7 @@ const armorData = [
           ],
           armorSet: {
              id: 260,
-             rank: "m ster"
+             rank: "master",
              name: "Kushala Beta +",
              pieces: [
               1145,
@@ -109022,7 +110951,7 @@ const armorData = [
         skills: [
          {
                id: 216,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Extends evasion distance.",
               skill: 69,
@@ -110066,7 +111995,7 @@ const armorData = [
         skills: [
          {
                id: 161,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
               skill: 51,
@@ -110421,7 +112350,7 @@ const armorData = [
         skills: [
          {
                id: 172,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +10.",
               skill: 53,
@@ -110682,7 +112611,7 @@ const armorData = [
         skills: [
          {
                id: 236,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Moderately increases item use speed.",
               skill: 75,
@@ -110765,7 +112694,7 @@ const armorData = [
         skills: [
          {
                id: 295,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Greatly reduces effluvial buildup.",
               skill: 101,
@@ -111124,7 +113053,7 @@ const armorData = [
         skills: [
          {
                id: 171,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 53,
@@ -111215,7 +113144,7 @@ const armorData = [
         skills: [
          {
                id: 101,
-              level :2,
+              level:2,
              modifiers: {
                 damageDragon: 60
               },
@@ -111308,7 +113237,7 @@ const armorData = [
         skills: [
          {
                id: 253,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, reduces damage taken by 30%.",
               skill: 84,
@@ -111391,11 +113320,11 @@ const armorData = [
         skills: [
          {
                id: 224,
-              level :2,
+              level:2,
              modifiers: {},
               description: "oderately increases sheathing speed.",
               skill: 71,
-              skillName: ""Qick Sheath""
+              skillName: "Quick Sheath"
             }
           ],
           armorSet: {
@@ -111562,7 +113491,7 @@ const armorData = [
         skills: [
          {
                id: 276,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Prevents knockbacks.",
               skill: 91,
@@ -111645,7 +113574,7 @@ const armorData = [
         skills: [
          {
                id: 148,
-              level :2,
+              level:2,
              modifiers: {},
               description: "raw attack affinity +60%",
               skill: 45,
@@ -111728,7 +113657,7 @@ const armorData = [
         skills: [
          {
                id: 253,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, reduces damage taken by 30%.",
               skill: 84,
@@ -111995,7 +113924,7 @@ const armorData = [
         skills: [
          {
                id: 276,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Prevents knockbacks.",
               skill: 91,
@@ -112086,7 +114015,7 @@ const armorData = [
         skills: [
          {
                id: 148,
-              level :2,
+              level:2,
              modifiers: {},
               description: "raw attack affinity +60%",
               skill: 45,
@@ -112188,7 +114117,7 @@ const armorData = [
           armorSet: {
              id: 268,
              rank: "master",
-             name: "Guild Palace Be a +",             pieces: [
+             name: "Guild Palace Beta +",             pieces: [
               1185,
               1186,
               1187,
@@ -112260,7 +114189,7 @@ const armorData = [
         skills: [
          {
                id: 166,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +4 and increases affinity by 5%.",
               skill: 52,
@@ -112351,7 +114280,7 @@ const armorData = [
         skills: [
          {
                id: 339,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, increases attack power by 10%.",
               skill: 138,
@@ -112434,7 +114363,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -112627,7 +114556,7 @@ const armorData = [
               modifiers: {},
               description: "While active, increases attack power by 5%.",
               skill: 138,
-               skillName: "Offensive G uar"
+               skillName: "Offensive Guard"
         }
           ],
           armorSet: {
@@ -112706,7 +114635,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -112885,7 +114814,7 @@ const armorData = [
         skills: [
          {
                id: 168,
-              level :3,
+              level:3,
              modifiers: {},
               description: "While active, grants attack +12 and increases affinity by 7%.",
               skill: 52,
@@ -113066,7 +114995,7 @@ const armorData = [
         skills: [
          {
                id: 150,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Part damage +10%",
               skill: 46,
@@ -113314,7 +115243,7 @@ const armorData = [
         skills: [
          {
                id: 157,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Exhaust power +30%",
               skill: 48,
@@ -113397,7 +115326,7 @@ const armorData = [
         skills: [
          {
                id: 156,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Exhaust power +20%"",
               skill: 48,
@@ -113846,7 +115775,7 @@ const armorData = [
         skills: [
          {
                id: 156,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Exhaust power +20%"",
               skill: 48,
@@ -114113,7 +116042,7 @@ const armorData = [
         skills: [
          {
                id: 148,
-              level :2,
+              level:2,
              modifiers: {},
               description: "raw attack affinity +60%",
               skill: 45,
@@ -114196,7 +116125,7 @@ const armorData = [
         skills: [
          {
                id: 242,
-              level :2,
+              level:2,
              modifiers: {},
               description: "xplosive power +20%",
               skill: 77,
@@ -114281,7 +116210,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             },
@@ -114988,7 +116917,7 @@ const armorData = [
         skills: [
          {
                id: 143,
-              level :2,
+              level:2,
              modifiers: {
                 sharpnessBonus: 20
               },
@@ -114999,7 +116928,7 @@ const armorData = [
           ],
           armorSet: {
              id: 274,
-             rank: "m ster"
+             rank: "master",
              name: "Damascus Beta +",
              pieces: [
               1215,
@@ -115160,9 +117089,9 @@ const armorData = [
                id: 47,
               level: 2,
              modifiers: {
-                "defens ": 1
+                defense: 1
               },
-              description: "Deense +10",
+              description: "Defense +10",
               skill: 16,
                skillName: "Defense Boost"
             },
@@ -115343,9 +117272,9 @@ const armorData = [
                id: 47,
               level: 2,
              modifiers: {
-                "defens ": 1
+                defense: 1
               },
-              description: "Deense +10",
+              description: "Defense +10",
               skill: 16,
                skillName: "Defense Boost"
             },
@@ -115434,7 +117363,7 @@ const armorData = [
         skills: [
          {
                id: 143,
-              level :2,
+              level:2,
              modifiers: {
                 sharpnessBonus: 20
               },
@@ -115527,7 +117456,7 @@ const armorData = [
         skills: [
          {
                id: 136,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases gauge fill rate by 5% and reduces charge times by 5%.",
               skill: 42,
@@ -115620,9 +117549,9 @@ const armorData = [
                id: 47,
               level: 2,
              modifiers: {
-                "defens ": 1
+                defense: 1
               },
-              description: "Deense +10",
+              description: "Defense +10",
               skill: 16,
                skillName: "Defense Boost"
             },
@@ -115886,7 +117815,7 @@ const armorData = [
         skills: [
          {
                id: 204,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Stamina recovery speed +10%",
               skill: 66,
@@ -116081,7 +118010,7 @@ const armorData = [
             {
                id: 244,
               level: 1,
-              "modifiers : {},              
+               modifiers: {},              
               description: "Lets you digest blue mushrooms and toadstools.",
               skill: 78,
                skillName: "Mushroomancer"
@@ -116346,7 +118275,7 @@ const armorData = [
         skills: [
          {
                id: 205,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tamina recovery speed +20%",
               skill: 66,
@@ -116620,7 +118549,7 @@ const armorData = [
         skills: [
          {
                id: 196,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 30%.",
               skill: 63,
@@ -116788,7 +118717,7 @@ const armorData = [
         skills: [
          {
                id: 227,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Items affect nearby allies in a wider radius with 33% of their efficacy.",
               skill: 72,
@@ -116954,7 +118883,7 @@ const armorData = [
         skills: [
          {
                id: 227,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Items affect nearby allies in a wider radius with 33% of their efficacy.",
               skill: 72,
@@ -117586,7 +119515,7 @@ const armorData = [
             {
                id: 133,
               level: 1,
-              "modifiers : {},              
+               modifiers: {},              
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
                skillName: "Weakness Exploit"
@@ -118732,7 +120661,7 @@ const armorData = [
         skills: [
          {
                id: 235,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Slightly increases item use speed."",
               skill: 75,
@@ -119085,7 +121014,7 @@ const armorData = [
                id: 23,
               level: 1,
              modifiers: {},
-              description: "Slightly reduces the effects of weak monster roars."",
+              description: "Slightly reduces the effects of weak monster roars.",
               skill: 9,
               skillName: "Earplugs"
             },
@@ -119174,11 +121103,11 @@ const armorData = [
         skills: [
          {
                id: 234,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Activates 25% of the time."",
+              description: "Activates 25% of the time.",
               skill: 74,
-              skillName: ""Fee Meal""
+              skillName: "Free Meal"
             },
             {
                id: 235,
@@ -119265,7 +121194,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -119524,7 +121453,7 @@ const armorData = [
         skills: [
          {
                id: 115,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Blast buildup +10% Bonus: +10",
               skill: 34,
@@ -120223,11 +122152,11 @@ const armorData = [
         skills: [
          {
                id: 142,
-              level :1,
+              level:1,
              modifiers: {
                 sharpnessBonus: 10
               },
-              description: ""Wapon sharpness +10"",
+              description: "Weapon sharpness +10",
               skill: 44,
                skillName: "Handicraft"
             },
@@ -120483,7 +122412,7 @@ const armorData = [
         skills: [
          {
                id: 267,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, increases affinity by 10%.",
               skill: 88,
@@ -121015,7 +122944,7 @@ const armorData = [
         skills: [
          {
                id: 134,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts.",
               skill: 41,
@@ -121183,7 +123112,7 @@ const armorData = [
         skills: [
          {
                id: 180,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 56,
@@ -121266,7 +123195,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -121360,7 +123289,7 @@ const armorData = [
             {
                id: 181,
               level: 2,
-              "modifiers : {},              
+               modifiers: {},              
               description: "While active, grants attack +10.",
               skill: 56,
                skillName: "Resentment"
@@ -121528,7 +123457,7 @@ const armorData = [
         skills: [
          {
                id: 181,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +10.",
               skill: 56,
@@ -121709,7 +123638,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -121813,7 +123742,7 @@ const armorData = [
             {
                id: 181,
               level: 2,
-              "modifiers : {},              
+               modifiers: {},              
               description: "While active, grants attack +10.",
               skill: 56,
                skillName: "Resentment"
@@ -122589,7 +124518,7 @@ const armorData = [
         skills: [
          {
                id: 117,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ncreases the power of normal ammo and normal arrows.",
               skill: 35,
@@ -122770,7 +124699,7 @@ const armorData = [
         skills: [
          {
                id: 118,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ncreases the power of piercing ammo and Dragon Piercer.",
               skill: 36,
@@ -123109,11 +125038,11 @@ const armorData = [
         skills: [
          {
                id: 210,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Very slightly increases invulnerability window."",
+              description: "Very slightly increases invulnerability window.",
               skill: 68,
-              skillName: ""Eade Window""
+              skillName: "Evade Window"
             }
           ],
           armorSet: {
@@ -123192,7 +125121,7 @@ const armorData = [
         skills: [
          {
                id: 118,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ncreases the power of piercing ammo and Dragon Piercer.",
               skill: 36,
@@ -123547,7 +125476,7 @@ const armorData = [
         skills: [
          {
                id: 171,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 53,
@@ -123889,7 +125818,7 @@ const armorData = [
         skills: [
          {
                id: 150,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Part damage +10%",
               skill: 46,
@@ -123972,7 +125901,7 @@ const armorData = [
         skills: [
          {
                id: 219,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Slightly decreases the impact of attacks and reduces stamina depletion by 15%.",
               skill: 70,
@@ -124321,7 +126250,7 @@ const armorData = [
         skills: [
          {
                id: 150,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Part damage +10%",
               skill: 46,
@@ -125401,7 +127330,7 @@ const armorData = [
         skills: [
          {
                id: 162,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, increases affinity by 20% and reduces stamina depletion by 30%.",
               skill: 51,
@@ -125577,7 +127506,7 @@ const armorData = [
         skills: [
          {
                id: 100,
-              level :1,
+              level:1,
              modifiers: {
                 damageDragon: 30
               },
@@ -125669,7 +127598,7 @@ const armorData = [
         skills: [
          {
                id: 101,
-              level :2,
+              level:2,
              modifiers: {
                 damageDragon: 60
               },
@@ -125680,7 +127609,7 @@ const armorData = [
           ],
           armorSet: {
              id: 298,
-            "rank": "m ster"
+            "rank": "master"
              name: "Death Garon Beta +",
              pieces: [
               1335,
@@ -126017,7 +127946,7 @@ const armorData = [
         skills: [
          {
                id: 101,
-              level :2,
+              level:2,
              modifiers: {
                 damageDragon: 60
               },
@@ -126109,7 +128038,7 @@ const armorData = [
         skills: [
          {
                id: 101,
-              level :2,
+              level:2,
              modifiers: {
                 damageDragon: 60
               },
@@ -126201,7 +128130,7 @@ const armorData = [
         skills: [
          {
                id: 139,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Bonus duration +10%",
               skill: 43,
@@ -126381,7 +128310,7 @@ const armorData = [
         skills: [
          {
                id: 239,
-              level :2,
+              level:2,
              modifiers: {},
               description: "emoves two cycles from the sharpening process.",
               skill: 76,
@@ -126553,7 +128482,7 @@ const armorData = [
         skills: [
          {
                id: 124,
-              level :2,
+              level:2,
              modifiers: {
                 affinity: 0
               },
@@ -126564,7 +128493,7 @@ const armorData = [
           ],
           armorSet: {
              id: 300,
-            "rank": "m ster"
+            "rank": "master"
              name: "Odogaron Beta +",
              pieces: [
               1345,
@@ -127175,7 +129104,7 @@ const armorData = [
         skills: [
          {
                id: 208,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Extends the time until your stamina cap decreases by 100%.",
               skill: 67,
@@ -127497,7 +129426,7 @@ const armorData = [
         skills: [
          {
                id: 196,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 30%.",
               skill: 63,
@@ -127671,7 +129600,7 @@ const armorData = [
         skills: [
          {
                id: 137,
-              level :2,
+              level:2,
              modifiers: {},
               description: "ncreases gauge fill rate by 10% and reduces charge times by 10%.",
               skill: 42,
@@ -127761,7 +129690,7 @@ const armorData = [
         skills: [
          {
                id: 148,
-              level :2,
+              level:2,
              modifiers: {},
               description: "raw attack affinity +60%",
               skill: 45,
@@ -127851,7 +129780,7 @@ const armorData = [
         skills: [
          {
                id: 136,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases gauge fill rate by 5% and reduces charge times by 5%.",
               skill: 42,
@@ -127941,7 +129870,7 @@ const armorData = [
         skills: [
          {
                id: 119,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ncreases the attack power of spread ammo, power shot arrows, and Thousand Dragons.",
               skill: 37,
@@ -128031,7 +129960,7 @@ const armorData = [
         skills: [
          {
                id: 253,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, reduces damage taken by 30%.",
               skill: 84,
@@ -128201,7 +130130,7 @@ const armorData = [
         skills: [
          {
                id: 160,
-              level :1,
+              level:1,
              modifiers: {},
               description: "umping attack power +30%",
               skill: 50,
@@ -128387,14 +130316,14 @@ const armorData = [
              modifiers: {
                 resistIce:12
               },
-              description: "Ic resistance +12",
+              description: "Ice resistance +12",
               skill: 22,
                skillName: "Ice Resistance"
             }
           ],
           armorSet: {
              id: 304,
-            "rank": "m ster"
+            "rank": "master"
              name: "Legiana Beta +",
              pieces: [
               1365,
@@ -128913,7 +130842,7 @@ const armorData = [
         skills: [
          {
                id: 151,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Part damage +20%",
               skill: 46,
@@ -128995,7 +130924,7 @@ const armorData = [
         skills: [
          {
                id: 180,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 56,
@@ -129085,11 +131014,11 @@ const armorData = [
         skills: [
          {
                id: 153,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Stun power +20%"",
+              description: "Stun power +20%",
               skill: 47,
-              skillName: ""Sugger""
+              skillName: "Slugger"
             },
             {
                id: 195,
@@ -129175,11 +131104,11 @@ const armorData = [
         skills: [
          {
                id: 154,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tun power +30%",
               skill: 47,
-              skillName: ""Sugger""
+              skillName: "Slugger"
             }
           ],
           armorSet: {
@@ -129337,7 +131266,7 @@ const armorData = [
         skills: [
          {
                id: 151,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Part damage +20%",
               skill: 46,
@@ -129515,11 +131444,11 @@ const armorData = [
         skills: [
          {
                id: 154,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tun power +30%",
               skill: 47,
-              skillName: ""Sugger""
+              skillName: "Slugger"
             },
             {
                id: 195,
@@ -129861,11 +131790,11 @@ const armorData = [
         skills: [
          {
                id: 154,
-              level :2,
+              level:2,
              modifiers: {},
               description: "tun power +30%",
               skill: 47,
-              skillName: ""Sugger""
+              skillName: "Slugger"
             },
             {
                id: 174,
@@ -129955,7 +131884,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             },
             {
                id: 175,
@@ -130041,7 +131970,7 @@ const armorData = [
         skills: [
          {
                id: 196,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 30%.",
               skill: 63,
@@ -130127,7 +132056,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             },
             {
                id: 153,
@@ -130569,7 +132498,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             },
             {
                id: 154,
@@ -130735,7 +132664,7 @@ const armorData = [
         skills: [
          {
                id: 120,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Draws out 33% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -131077,7 +133006,7 @@ const armorData = [
         skills: [
          {
                id: 130,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases damage dealt by critical hits by 30%.",
               skill: 40,
@@ -131530,7 +133459,7 @@ const armorData = [
           ],
           armorSet: {
              id: 312,
-            "rank": "ma ter",             name: "Rathalos Beta +",
+            "rank": "master",             name: "Rathalos Beta +",
              pieces: [
               1405,
               1406,
@@ -131682,11 +133611,11 @@ const armorData = [
         skills: [
          {
                id: 281,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Negates knockback during jumps."",
+              description: "Negates knockback during jumps.",
               skill: 94,
-              skillName: ""Jmp Master""
+              skillName: "Jump Master"
             }
           ],
           armorSet: {
@@ -131775,7 +133704,7 @@ const armorData = [
           ],
           armorSet: {
              id: 312,
-            "rank": "m ster"
+            "rank": "master"
              name: "Rathalos Beta +",
              pieces: [
               1405,
@@ -131950,7 +133879,7 @@ const armorData = [
               modifiers: {
                 damageFire: 60
               },
-              description: ""Fire attack"  +60,
+              description: "Fire attack +60",
           skill: 26,
                skillName: "Fire Attack"
             }
@@ -132390,7 +134319,7 @@ const armorData = [
         skills: [
          {
                id: 139,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Bonus duration +10%",
               skill: 43,
@@ -132480,7 +134409,7 @@ const armorData = [
         skills: [
          {
                id: 139,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Bonus duration +10%",
               skill: 43,
@@ -132730,7 +134659,7 @@ const armorData = [
         skills: [
          {
                id: 198,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Reduces fixed stamina depletion by 10%.",
               skill: 64,
@@ -132820,7 +134749,7 @@ const armorData = [
         skills: [
          {
                id: 139,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Bonus duration +10%",
               skill: 43,
@@ -133174,7 +135103,7 @@ const armorData = [
         skills: [
          {
                id: 199,
-              level :2,
+              level:2,
              modifiers: {},
               description: "educes fixed stamina depletion by 20%.",
               skill: 64,
@@ -133264,7 +135193,7 @@ const armorData = [
         skills: [
          {
                id: 302,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Shortens time until reuse by 20%.",
               skill: 106,
@@ -133346,7 +135275,7 @@ const armorData = [
         skills: [
          {
                id: 171,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 53,
@@ -133436,7 +135365,7 @@ const armorData = [
         skills: [
          {
                id: 114,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Blast buildup +5% Bonus: +10",
               skill: 34,
@@ -133537,7 +135466,7 @@ const armorData = [
           armorSet: {
              id: 316,
             "rank": "master",
-             name: "Lunastra Be a +",             pieces: [
+             name: "Lunastra Beta +",             pieces: [
               1425,
               1426,
               1427,
@@ -133608,7 +135537,7 @@ const armorData = [
         skills: [
          {
                id: 227,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Items affect nearby allies in a wider radius with 33% of their efficacy.",
               skill: 72,
@@ -133874,7 +135803,7 @@ const armorData = [
         skills: [
          {
                id: 115,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Blast buildup +10% Bonus: +10",
               skill: 34,
@@ -134054,7 +135983,7 @@ const armorData = [
         skills: [
          {
                id: 228,
-              level :3,
+              level:3,
              modifiers: {},
               description: "Items affect nearby allies in a wider radius with 66% of their efficacy.",
               skill: 72,
@@ -134144,7 +136073,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -134234,7 +136163,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -134592,7 +136521,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -134682,7 +136611,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -134952,7 +136881,7 @@ const armorData = [
         skills: [
          {
                id: 119,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ncreases the attack power of spread ammo, power shot arrows, and Thousand Dragons.",
               skill: 37,
@@ -135046,7 +136975,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors and reduces the effects of major ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             },
             {
                id: 163,
@@ -135402,7 +137331,7 @@ const armorData = [
         skills: [
          {
                id: 137,
-              level :2,
+              level:2,
              modifiers: {},
               description: "ncreases gauge fill rate by 10% and reduces charge times by 10%.",
               skill: 42,
@@ -135496,7 +137425,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             },
             {
                id: 163,
@@ -135670,7 +137599,7 @@ const armorData = [
         skills: [
          {
                id: 151,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Part damage +20%",
               skill: 46,
@@ -135844,7 +137773,7 @@ const armorData = [
         skills: [
          {
                id: 137,
-              level :2,
+              level:2,
              modifiers: {},
               description: "ncreases gauge fill rate by 10% and reduces charge times by 10%.",
               skill: 42,
@@ -136646,11 +138575,11 @@ const armorData = [
         skills: [
          {
                id: 211,
-              level :2,
+              level:2,
              modifiers: {},
               description: "lightly increases invulnerability window.",
               skill: 68,
-              skillName: ""Eade Window""
+              skillName: "Evade Window"
             }
           ],
           armorSet: {
@@ -137048,7 +138977,7 @@ const armorData = [
         skills: [
          {
                id: 200,
-              level :3,
+              level:3,
              modifiers: {},
               description: "educes fixed stamina depletion by 30%.",
               skill: 64,
@@ -137674,7 +139603,7 @@ const armorData = [
         skills: [
          {
                id: 180,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 56,
@@ -140860,7 +142789,7 @@ const armorData = [
         skills: [
          {
                id: 136,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases gauge fill rate by 5% and reduces charge times by 5%.",
               skill: 42,
@@ -140946,7 +142875,7 @@ const armorData = [
              modifiers: {},
               description: "Nullifies minor ground tremors.",
               skill: 11,
-              skillName: "Trmor Resistance"
+              skillName: "Tremor Resistance"
             }
           ],
           armorSet: {
@@ -141024,7 +142953,7 @@ const armorData = [
         skills: [
          {
                id: 180,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, grants attack +5.",
               skill: 56,
@@ -141106,7 +143035,7 @@ const armorData = [
         skills: [
          {
                id: 198,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Reduces fixed stamina depletion by 10%.",
               skill: 64,
@@ -141188,7 +143117,7 @@ const armorData = [
         skills: [
          {
                id: 244,
-              level :1,
+              level:1,
              modifiers: {},
               description: "ets you digest blue mushrooms and toadstools.",
               skill: 78,
@@ -141977,7 +143906,7 @@ const armorData = [
         skills: [
          {
                id: 174,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, increases defense by 50 points",
               skill: 54,
@@ -142141,7 +144070,7 @@ const armorData = [
         skills: [
          {
                id: 196,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 30%.",
               skill: 63,
@@ -142551,7 +144480,7 @@ const armorData = [
         skills: [
          {
                id: 196,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 30%.",
               skill: 63,
@@ -142643,7 +144572,7 @@ const armorData = [
         skills: [
          {
                id: 134,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts.",
               skill: 41,
@@ -142733,7 +144662,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -143305,7 +145234,7 @@ const armorData = [
             {
                id: 198,
               level: 1,
-              "modifiers : {},              
+               modifiers: {},              
               description: "Reduces fixed stamina depletion by 10%.",
               skill: 64,
                skillName: "Constitution"
@@ -143638,7 +145567,7 @@ const armorData = [
                id: 46,
               level: 1,
              modifiers: {
-                "defens ": 5              },
+                defense: 5              },
               description: "Defense +5",
               skill  16,
              skillName: "Defense Boost"
@@ -143737,7 +145666,7 @@ const armorData = [
             {
                id: 210,
               level: 1,
-              "modifiers : {},              
+               modifiers: {},              
               description: "Very slightly increases invulnerability window.",
               skill: 68,
                skillName: "Evade Window"
@@ -143818,7 +145747,7 @@ const armorData = [
         skills: [
          {
                id: 185,
-              level :1,
+              level:1,
              modifiers: {},
               description: "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
               skill: 57,
@@ -144059,7 +145988,7 @@ const armorData = [
                id: 46,
               level: 1,
              modifiers: {
-                "defens ": 5              },
+                defense: 5              },
               description: "Defense +5",
               skill  16,
              skillName: "Defense Boost"
@@ -144952,7 +146881,7 @@ const armorData = [
         skills: [
          {
                id: 199,
-              level :2,
+              level:2,
              modifiers: {},
               description: "educes fixed stamina depletion by 20%.",
               skill: 64,
@@ -145446,7 +147375,7 @@ const armorData = [
         skills: [
          {
                id: 277,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Prevents standard knockbacks. Tripping is reduced to a knockback. Increases some Kinsect extract effects.",
               skill: 91,
@@ -145700,7 +147629,7 @@ const armorData = [
         skills: [
          {
                id: 195,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Reduces continuous stamina depletion by 15%.",
               skill: 63,
@@ -145790,7 +147719,7 @@ const armorData = [
         skills: [
          {
                id: 136,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases gauge fill rate by 5% and reduces charge times by 5%.",
               skill: 42,
@@ -146326,7 +148255,7 @@ const armorData = [
         skills: [
          {
                id: 181,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +10.",
               skill: 56,
@@ -146408,7 +148337,7 @@ const armorData = [
         skills: [
          {
                id: 182,
-              level :3,
+              level:3,
              modifiers: {},
               description: "While active, grants attack +15.",
               skill: 56,
@@ -146490,7 +148419,7 @@ const armorData = [
         skills: [
          {
                id: 134,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts.",
               skill: 41,
@@ -147610,7 +149539,7 @@ const armorData = [
                id: 48,
               level: 3,
              modifiers: {
-                "defens ": 1
+                defense: 1
               },
               description: ""Dfense +5"%\nBonus: +10",
               skill: 16,
@@ -147970,7 +149899,7 @@ const armorData = [
         skills: [
          {
                id: 269,
-              level :3,
+              level:3,
              modifiers: {},
               description: "While active, increases affinity by 30%.",
               skill: 88,
@@ -148231,7 +150160,7 @@ const armorData = [
           armorSet: {
              id: 356,
             "rank": "master",
-             name: "Furious Rajang Be a +",             pieces: [
+             name: "Furious Rajang Beta +",             pieces: [
               1605,
               1606,
               1607,
@@ -148486,7 +150415,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -148664,7 +150593,7 @@ const armorData = [
         skills: [
          {
                id: 134,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts.",
               skill: 41,
@@ -148922,7 +150851,7 @@ const armorData = [
         skills: [
          {
                id: 167,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +8 and increases affinity by 5%.",
               skill: 52,
@@ -149004,7 +150933,7 @@ const armorData = [
         skills: [
          {
                id: 168,
-              level :3,
+              level:3,
              modifiers: {},
               description: "While active, grants attack +12 and increases affinity by 7%.",
               skill: 52,
@@ -149416,7 +151345,7 @@ const armorData = [
         skills: [
          {
                id: 182,
-              level :3,
+              level:3,
              modifiers: {},
               description: "While active, grants attack +15.",
               skill: 56,
@@ -149498,7 +151427,7 @@ const armorData = [
         skills: [
          {
                id: 151,
-              level :2,
+              level:2,
              modifiers: {},
               description: "Part damage +20%",
               skill: 46,
@@ -149664,11 +151593,11 @@ const armorData = [
         skills: [
          {
                id: 234,
-              level :1,
+              level:1,
              modifiers: {},
-              description: "Activates 25% of the time."",
+              description: "Activates 25% of the time.",
               skill: 74,
-              skillName: ""Fee Meal""
+              skillName: "Free Meal"
             },
             {
                id: 237,
@@ -149754,7 +151683,7 @@ const armorData = [
         skills: [
          {
                id: 130,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases damage dealt by critical hits by 30%.",
               skill: 40,
@@ -150112,7 +152041,7 @@ const armorData = [
         skills: [
          {
                id: 237,
-              level :3,
+              level:3,
              modifiers: {},
               description: "Greatly increases item use speed.",
               skill: 75,
@@ -150194,7 +152123,7 @@ const armorData = [
         skills: [
          {
                id: 130,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Increases damage dealt by critical hits by 30%.",
               skill: 40,
@@ -150276,7 +152205,7 @@ const armorData = [
         skills: [
          {
                id: 172,
-              level :2,
+              level:2,
              modifiers: {},
               description: "While active, grants attack +10.",
               skill: 53,
@@ -150442,7 +152371,7 @@ const armorData = [
         skills: [
          {
                id: 206,
-              level :3,
+              level:3,
              modifiers: {},
               description: "tamina recovery speed +30%",
               skill: 66,
@@ -150798,7 +152727,7 @@ const armorData = [
         skills: [
          {
                id: 124,
-              level :2,
+              level:2,
              modifiers: {
                 affinity: 0
               },
@@ -150995,7 +152924,7 @@ const armorData = [
             {
                id: 141,
               level: 3,
-              "modifiers : {},              
+               modifiers: {},              
               description: "Bonus duration +30%",
               skill: 43,
                skillName: "Power Prolonger"
@@ -151267,7 +153196,7 @@ const armorData = [
         skills: [
          {
                id: 123,
-              level :1,
+              level:1,
              modifiers: {
                 affinity: 
               },
@@ -151464,7 +153393,7 @@ const armorData = [
           ],
           armorSet: {
              id: 364,
-            "rank": "ma ter",             name: "Alatreon Beta +",
+            "rank": "master",             name: "Alatreon Beta +",
              pieces: [
               1644,
               1645,
@@ -151821,7 +153750,7 @@ const armorData = [
             {
                id: 147,
               level: 1,
-              "modifiers : {},              
+               modifiers: {},              
               description: "Draw attack affinity +30%",
               skill: 45,
                skillName: "Critical Draw"
@@ -151902,7 +153831,7 @@ const armorData = [
         skills: [
          {
                id: 124,
-              level :2,
+              level:2,
              modifiers: {
                 affinity: 0
               },
@@ -152097,7 +154026,7 @@ const armorData = [
             {
                id: 155,
               level: 3,
-              "modifiers : {},              
+               modifiers: {},              
               description: "Stun power +40%",
               skill: 47,
                skillName: "Slugger"
@@ -152275,7 +154204,7 @@ const armorData = [
           ],
           armorSet: {
              id: 366,
-            "rank": "ma ter",             name: "Frostfang Barioth Beta +",
+            "rank": "master",             name: "Frostfang Barioth Beta +",
              pieces: [
               1654,
               1655,
@@ -152347,7 +154276,7 @@ const armorData = [
         skills: [
          {
                id: 124,
-              level :2,
+              level:2,
              modifiers: {
                 affinity: 0
               },
@@ -152358,7 +154287,7 @@ const armorData = [
           ],
           armorSet: {
              id: 366,
-            "rank": "m ster"
+            "rank": "master"
              name: "Frostfang Barioth Beta +",
              pieces: [
               1654,
@@ -152526,7 +154455,7 @@ const armorData = [
           ],
           armorSet: {
              id: 366,
-            "rank": "ma ter",             name: "Frostfang Barioth Beta +",
+            "rank": "master",             name: "Frostfang Barioth Beta +",
              pieces: [
               1654,
               1655,
@@ -152678,7 +154607,7 @@ const armorData = [
         skills: [
          {
                id: 249,
-              level :1,
+              level:1,
              modifiers: {},
               description: "peeds up gathering and prevents knockbacks while gathering.",
               skill: 81,
@@ -152768,7 +154697,7 @@ const armorData = [
         skills: [
          {
                id: 284,
-              level :3,
+              level:3,
              modifiers: {},
               description: "nteractables restore an additional 100 health.",
               skill: 95,
@@ -152850,7 +154779,7 @@ const armorData = [
         skills: [
          {
                id: 263,
-              level :4,
+              level:4,
              modifiers: {},
               description: "ne extra consumable herb, fruit, nut, seed, insect or mushroom item per gather.",
               skill: 86,
@@ -152932,7 +154861,7 @@ const armorData = [
         skills: [
          {
                id: 266,
-              level :3,
+              level:3,
              modifiers: {},
               description: "Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops.",
               skill: 87,
@@ -153198,7 +155127,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
@@ -153384,7 +155313,7 @@ const armorData = [
         skills: [
          {
                id: 143,
-              level :2,
+              level:2,
              modifiers: {
                 sharpnessBonus: 20
               },
@@ -154150,7 +156079,7 @@ const armorData = [
         skills: [
          {
                id: 122,
-              level :3,
+              level:3,
              modifiers: {},
               description: "Draws out 100% of hidden element and expands clip size for some ammo.",
               skill: 38,
@@ -154590,7 +156519,7 @@ const armorData = [
         skills: [
          {
                id: 138,
-              level :3,
+              level:3,
              modifiers: {},
               description: "ncreases gauge fill rate by 20% and reduces charge times by 15%.",
               skill: 42,
@@ -154680,7 +156609,7 @@ const armorData = [
         skills: [
          {
                id: 173,
-              level :3,
+              level:3,
              modifiers: {},
               description: "While active, grants attack +20.",
               skill: 53,
@@ -155132,7 +157061,7 @@ const armorData = [
         skills: [
          {
                id: 133,
-              level :1,
+              level:1,
              modifiers: {},
               description: "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
               skill: 41,
