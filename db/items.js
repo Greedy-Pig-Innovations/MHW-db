@@ -9486,5 +9486,86 @@ const itemData = [
       value: 400,
       name: "Joyful Ticket",
       description: "A ticket you receive for attending the Holiday Joy Fest. Exchange it for special equipment or items."
+    },
+    {
+      id: 1205,
+      rarity: 11,
+      carryLimit: 99,
+      value: 7800,
+      name: "Rajang Apoplexy",
+      description: "Very rare Furious Rajang material. A long, fine mane that is extremely robust."
+    },
+    {
+      id: 1206,
+      rarity: 11,
+      carryLimit: 99,
+      value: 10900,
+      name: "Ghoulish Gold Gorer",
+      description: "Very rare Furious Rajang material. A golden horn that, even when broken, is filled with the rage of a Rajang."
+    },
+    {
+      id: 1207,
+      rarity: 11,
+      carryLimit: 99,
+      value: 24000,
+      name: "Rajang Heart",
+      description: "Very rare furious Rajang material. Its flesh-searing rage unleashes massive power with every beat."
+    },
+    {
+      id: 1208,
+      rarity:11,
+      carryLimit: 99,
+      value: 7800,
+      name: "Indestructible Ebonshell",
+      description: "Very rare Raging Brachydios material. The sturdiest material known, capable of withstanding any blast."
+    },
+    {
+      id: 1209,
+      rarity: 11,
+      carryLimit: 99,
+      value: 10600,
+      name: "Brach Warhead",
+      description: "Very rare raging brachydios material. A skull that rage has turned into something far worse."
+    },
+    {
+      id: 1210,
+      rarity: 11,
+      carryLimit: 99,
+      value: 7900,
+      name: "Brach Obliterator",
+      description: "Very rare Raging Brachydios material. A violent core capable of instantly obliterating targets."
+    },
+    {
+      id: 1211,
+      rarity: 11,
+      carryLimit: 99,
+      value: 7900,
+      name: "Flashpoint Slime",
+      description: "Very rare Raging Brachydios material. Red Brachydios slime at its most volatile."
+    },
+    {
+      id: 1212,
+      rarity: 12,
+      carryLimit: 99,
+      value: 24000,
+      name: "Immortal Reactor",
+      description: "Very rare Raging Brachydios material. A rare organ used to render slime more volatile when in peril."
+    }
+    {
+      id: 1213,
+      rarity: 9,
+      carryLimit: 99,
+      value: 400,
+      name: "Full Bloom Ticket",
+      description: "A ticket you receive for attending the Full Bloom Fest. Can be exchanged for special equipment or items"
     }
   ]
+
+  // {
+  //   id: 12,
+  //   rarity:,
+  //   carryLimit: 99,
+  //   value:,
+  //   name: "",
+  //   description: ""
+  // }
