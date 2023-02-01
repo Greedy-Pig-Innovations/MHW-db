@@ -1,3 +1,21 @@
+const { client } = require("./client");
+
+const createSets = async ({id, rank, name, pieces, bonus}) => {
+
+  try {
+
+    const {rows: [set]} = await client.query(`
+    INSERT INTO sets(id, rank, name, pieces, bonus)
+    VALUES ($1, $2, $3, $4, $5)
+    RETURNING *;
+    `,[id, rank, name, pieces, bonus]);
+
+    return set;
+    
+  } catch (error) {
+    console.error(error)
+  }
+} 
 
 const setData = [
     {
@@ -118161,3 +118179,9 @@ const setData = [
       }
     }
   ]
+
+
+  module.exports = {
+    setData,
+    createSets
+  }

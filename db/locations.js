@@ -1,3 +1,22 @@
+const { client } = require("./client");
+
+const createLocs = async ({id, zoneCount, name, camps}) => {
+
+  try {
+
+    const {rows: [item]} = await client.query(`
+    INSERT INTO locations(id, "zoneCount", name, camps)
+    VALUES ($1, $2, $3, $4)
+    RETURNING *;
+    `,[id, zoneCount, name, camps]);
+
+    return item;
+    
+  } catch (error) {
+    console.error(error)
+  }
+} 
+
 
 const locationData = [
     {
@@ -214,3 +233,9 @@ const locationData = [
       camps: []
     }
   ]
+
+
+  module.exports = {
+    locationData,
+    createLocs
+  }
