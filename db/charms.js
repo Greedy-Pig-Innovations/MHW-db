@@ -1,3 +1,23 @@
+const { client } = require("./client");
+
+const createCharms = async ({id,name,ranks,}) => {
+
+  try {
+
+    const {rows: [charm]} = await client.query(`
+    INSERT INTO charms(id,name,ranks)
+    VALUES ($1,$2,$3)
+    RETURNING *;
+    `,[id,name,ranks]);
+
+    return charm;
+    
+  } catch (error) {
+    console.error(error)
+  }
+} 
+
+
 
 const charmData = [
     {
@@ -17330,3 +17350,10 @@ const charmData = [
       ]
     }
   ]
+
+
+  module.exports = {
+    charmData,
+    createCharms
+
+  }

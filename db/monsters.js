@@ -1,3 +1,22 @@
+const { client } = require("./client");
+
+const createMonsters = async ({id, type, species, elements, name, description, ailments, locations, resistances, weaknesses, rewards}) => {
+
+  try {
+
+    const {rows: [monster]} = await client.query(`
+    INSERT INTO monsters(id, type, species, elements, name, description, ailments, locations, resistances, weaknesses, rewards)
+    VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11)
+    RETURNING *;
+    `,[id, type, species, elements, name, description, ailments, locations, resistances, weaknesses, rewards]);
+
+    return monster;
+    
+  } catch (error) {
+    console.error(error)
+  }
+} 
+
 
 const monsterData = [
     {
@@ -10138,3 +10157,8 @@ const monsterData = [
       rewards: []
     }
   ]
+
+  module.exports = {
+    monsterData,
+    createMonsters
+  }

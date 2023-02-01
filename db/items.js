@@ -1,3 +1,23 @@
+const { client } = require("./client");
+
+const createItems = async ({id, rarity, carryLimit, value, name, description}) => {
+
+  try {
+
+    const {rows: [item]} = await client.query(`
+    INSERT INTO items(id, rarity, "carryLimit", value, name, description)
+    VALUES ($1, $2, $3, $4, $5, $6)
+    RETURNING *;
+    `,[id, rarity, carryLimit, value, name, description]);
+
+    return item;
+    
+  } catch (error) {
+    console.error(error)
+  }
+} 
+
+
 const itemData = [
     {
       id: 1,
@@ -8205,7 +8225,7 @@ const itemData = [
       carryLimit: 99,
       value: 4500,
       name: "Bloodthirsty Glimmerpelt",
-      description: "Very rare Rajang material. The Guiding Lands' ebergy fortifies the monsters living there."
+      description: "Very rare Rajang material. The Guiding Lands' energy fortifies the monsters living there."
     },
     {
       id: 1042,
@@ -9124,7 +9144,7 @@ const itemData = [
       rarity: 11,
       carryLimit: 99,
       value: 21000,
-      name: "Stygian Zinogre  Skymerald",
+      name: "Stygian Zinogre Skymerald",
       description: "Very rare Stygian Zinogre material. Used to craft weapons powerful enough to take over the world."
     },
     {
@@ -9550,7 +9570,7 @@ const itemData = [
       value: 24000,
       name: "Immortal Reactor",
       description: "Very rare Raging Brachydios material. A rare organ used to render slime more volatile when in peril."
-    }
+    },
     {
       id: 1213,
       rarity: 9,
@@ -9558,14 +9578,234 @@ const itemData = [
       value: 400,
       name: "Full Bloom Ticket",
       description: "A ticket you receive for attending the Full Bloom Fest. Can be exchanged for special equipment or items"
+    },
+    {
+      id: 1214,
+      rarity: 11,
+      carryLimit: 99,
+      value: 9000,
+      name: "Kulve Taroth Golden Scale+",
+      description: "Very rare Kulve Taroth material. Mostly obtained as a reward. Many have fallen trying to obtain just one of these."
+    },
+    {
+      id: 1215,
+      rarity: 11,
+      carryLimit: 99,
+      value: 12000,
+      name: "Kulve Taroth Golden Shell+",
+      description: "Very rare Kulve Taroth material. Mostly obtained as a reward. Its value is tied to its brilliant gold shine."
+    },
+    {
+      id: 1216,
+      rarity: 11,
+      carryLimit: 99,
+      value: 18000,
+      name: "Kulve Taroth Golden Spiralhorn+",
+      description: "Very rare Kulve Taroth material. Obtained by breaking its head. It glows despite its age and weight."
+    },
+    {
+      id: 1217,
+      rarity: 12,
+      carryLimit: 99,
+      value: 24000,
+      name: "Golden Dragonsphire",
+      description: "Very rare Kulve Taroth material. A gem rumored to stain the world gold once obtained."
+    },
+    {
+      id: 1218,
+      rarity: 11,
+      carryLimit: 99,
+      value: 3000,
+      name: "Kulve Taroth Golden Nugget+",
+      description: "Very rare Kulve Taroth material. Obtained from rare drops. Emits an exotic light to those that look at it."
+    },
+    {
+      id: 1219,
+      rarity: 11,
+      carryLimit: 99,
+      value: 15000,
+      name: "Kulve Taroth Golden Tailshell+",
+      description: "Very rare Kulve Taroth material. Obtained by breaking its tail. It shimmers a lustrous gold."
+    },
+    {
+      id: 1220,
+      rarity: 12,
+      carryLimit: 99,
+      value: 1600,
+      name: "Namielle Ticket",
+      description: "A ticket bearing Namielle, master of the torrent. Redeem at the Smithy to make novel equipment."
+    },
+    {
+      id: 1221,
+      rarity: 11,
+      carryLimit: 99,
+      value: 8800,
+      name: "Alatreon Pallium",
+      description: "Very rare Alatreon material. Mostly obtained as a reward. The bearer receives heaven's love."
+    },
+    {
+      id: 1222,
+      rarity: 11,
+      carryLimit: 99,
+      value: 7800,
+      name: "Alatreon Mantle",
+      description: "Very rare Alatreon material. Mostly obtained by carving. Said to contain every element within."
+    },
+    {
+      id: 1223,
+      rarity: 11,
+      carryLimit: 99,
+      value: 11500,
+      name: "Skyswayer",
+      description: "Very rare Alatreon material. These convoluted horns are the finest specimen known to exist."
+    },
+    {
+      id: 1224,
+      rarity: 11,
+      carryLimit: 99,
+      value: 8000,
+      name: "Alatreon Riptalon",
+      description: "Very rare Alatreon material. Emits malevolence that makes one think of only evil intentions."
+    },
+    {
+      id: 1225,
+      rarity: 11,
+      carryLimit: 99,
+      value: 10700,
+      name: "Alatreon Direwing",
+      description: "Very rare Alatreon material. Rumored to be capable of ripping through space, time, and the world."
+    },
+    {
+      id: 1226,
+      rarity: 11,
+      carryLimit: 99,
+      value: 11000,
+      name: "Alatreon Diretail",
+      description: "Very rare Alatreon material. Obtained by carving its severed tail. Is this real, or merely a dream?"
+    },
+    {
+      id: 1227,
+      rarity: 12,
+      carryLimit: 99,
+      value: 24000,
+      name: "Azure Dragonsphire",
+      description: "Very rare Alatreon material. Obtaining this brilliant gem heralds the end of the world."
+    },
+    {
+      id: 1228,
+      rarity: 11,
+      carryLimit: 99,
+      value: 1400,
+      name: "Frostfang Ticket",
+      description: "Proof that you've hunted a tempered Frostfang Barioth. Bring it to the Smithy for a nice surprise!"
+    },
+    {
+      id: 1229,
+      rarity: 11,
+      carryLimit: 99,
+      value: 4900,
+      name: "Silversnow Pelt",
+      description: "Very rare Frostfang Barioth material. Mostly obtained as a reward. Broadly used for many purposes."
+    },
+    {
+      id: 1230,
+      rarity: 11,
+      carryLimit: 99,
+      value: 7600,
+      name: "Bergcrusher Claw",
+      description: "Very rare Frostfang Barioth material. Obtained as a reward and by carving. Sharp, used in many weapons."
+    },
+    {
+      id: 1231,
+      rarity: 11,
+      carryLimit: 99,
+      value: 10300,
+      name: "Silverwhite Frostfang",
+      description: "Very rare Frostfang Barioth material. Obtained by breaking its head. Sharp, used in many weapons."
+    },
+    {
+      id: 1232,
+      rarity: 9,
+      carryLimit: 99,
+      value: 400,
+      name: "Sizzling Spice Ticket",
+      description: "A ticket you receive for attending the Sizzling Spice Fest. Can be exchanged for special equipment or items."
+    },
+    {
+      id: 1233,
+      rarity: 11,
+      carryLimit: 99,
+      value: 84000,
+      name: "Fatalis Cortex",
+      description: "Very rare Fatalis material. Its multiple layers cannot be damaged by normal weaponry."
+    },
+    {
+      id: 1234,
+      rarity: 12,
+      carryLimit: 99,
+      value: 30000,
+      name: "Fatalis Evil Eye",
+      description: "Very rare Fatalis material. An unusual aura surrounds the eye of Fatalis. Perhaps it's possessed..."
+    },
+    {
+      id: 1235,
+      rarity: 11,
+      carryLimit: 99,
+      value: 12900,
+      name: "Fatalis Hardhorn",
+      description: "Very rare Fatalis material. A horn of immense strength. The horn's black glow gives off a strange attraction."
+    },
+    {
+      id: 1236,
+      rarity: 11,
+      carryLimit: 99,
+      value: 10300,
+      name: "Fatalis Pectus",
+      description: "Very rare Fatalis material. A truly fiendish carapace that sports the melted gear of its fallen foes."
+    },
+    {
+      id: 1237,
+      rarity: 11,
+      carryLimit: 99,
+      value: 11200,
+      name: "Fatalis Fellwing",
+      description: "Very rare Fatalis material. A wing hard as any metal, yet still very malleable, if the craftsman is skilled."
+    },
+    {
+      id: 1238,
+      rarity: 11,
+      carryLimit: 99,
+      value: 8400,
+      name: "Fatalis Shard",
+      description: "Very rare Fatalis material. Mostly obtained by carving. Its thick rings show its old age."
+    },
+    {
+      id: 1239,
+      rarity: 9,
+      carryLimit: 99,
+      value: 400,
+      name: "Fun Fright Ticket",
+      description: "A ticket you receive for attending the Fun Fright Fest. Exchange it for special equipment or items."
+    },
+    {
+      id: 1240,
+      rarity: 12,
+      carryLimit: 99,
+      value: 1600,
+      name: "Velkhana Ticket",
+      description: "A ticket depicting Velkhana, ruler of the frost. Redeem at the Smithy to make novel equipment."
+    },
+    {
+      id: 1241,
+      rarity: 12,
+      carryLimit: 99,
+      value: 1500,
+      name: "Azure Large Era Gem",
+      description: "Special material from USJ, to one who gives everyone a dream. The azure light blazes a path to a bright future."
     }
   ]
 
-  // {
-  //   id: 12,
-  //   rarity:,
-  //   carryLimit: 99,
-  //   value:,
-  //   name: "",
-  //   description: ""
-  // }
+ module.exports = {
+  itemData,
+  createItems
+ }

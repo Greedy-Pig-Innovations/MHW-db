@@ -1,3 +1,21 @@
+const { client } = require("./client");
+
+const createSkills = async ({id, name, description, ranks}) => {
+
+  try {
+
+    const {rows: [skill]} = await client.query(`
+    INSERT INTO skills(id, name, description, ranks)
+    VALUES ($1, $2, $3, $4)
+    RETURNING *;
+    `,[id, name, description, ranks]);
+
+    return skill;
+    
+  } catch (error) {
+    console.error(error)
+  }
+} 
 
 const skillData = [
     {
@@ -4803,3 +4821,9 @@ const skillData = [
       ]
     }
   ]
+
+
+  module.exports = {
+    skillData,
+    createSkills
+  }

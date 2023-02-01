@@ -1,3 +1,22 @@
+const { client } = require("./client");
+
+const createDecos = async ({id,rarity,slot,name,skills}) => {
+
+  try {
+
+    const {rows: [deco]} = await client.query(`
+    INSERT INTO decorations(id, rarity, slot, name, skills)
+    VALUES ($1, $2, $3, $4, $5)
+    RETURNING *;
+    `,[id,rarity,slot,name,skills]);
+
+    return deco;
+    
+  } catch (error) {
+    console.error(error)
+  }
+} 
+
 
 const decoData = [
     {
@@ -8608,3 +8627,9 @@ const decoData = [
       ]
     }
   ]
+
+
+  module.exports = {
+    decoData,
+    createDecos
+  }

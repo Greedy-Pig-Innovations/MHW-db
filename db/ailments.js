@@ -392,13 +392,13 @@ const ailments = [
 //         recovery JSON NOT NULL,
 //         protection JSON NOT NULL
 //       );
-const createOneAilment = async({name, description, recovery, protection})=>{
+const createOneAilment = async({id, name, description, recovery, protection})=>{
     try{
         const {rows: [ailment]} = await client.query(`
-            INSERT INTO ailments(name, description, recovery, protection)
-            VALUES($1, $2, $3, $4)
+            INSERT INTO ailments(id, name, description, recovery, protection)
+            VALUES($1, $2, $3, $4, $5)
             RETURNING *;
-            `, [name, description, recovery, protection]);
+            `, [id, name, description, recovery, protection]);
         
 
         //output
