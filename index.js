@@ -18,7 +18,7 @@ server.use('/api',router);
 
 
 server.use((req,res,next) => {
-    
+    server.use('/api',router)
 
     next();
 })
