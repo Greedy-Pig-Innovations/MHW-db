@@ -278,14 +278,14 @@ const dropTables = async () => {
       client.connect();
       await dropTables();
       await createTables();
-      // await createAilments();
-      // await createAllArmors();
-      //await createAllCharms();
-      // await createAllDecos();
-      // await createAllItems();
-      //await createAllLocs();
-      //await createAllMonsters();
-      //await createAllSets();
+      await createAilments();
+      await createAllArmors();
+      await createAllCharms();
+      await createAllDecos();
+      await createAllItems();
+      await createAllLocs();
+      await createAllMonsters();
+      await createAllSets();
       await createAllSkills();
 
     } catch (error) {
