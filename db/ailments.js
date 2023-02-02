@@ -1,5 +1,73 @@
 const { client } = require("./client");
 
+
+const createOneAilment = async({id, name, description, recovery, protection})=>{
+  try{
+      const {rows: [ailment]} = await client.query(`
+          INSERT INTO ailments(id, name, description, recovery, protection)
+          VALUES($1, $2, $3, $4, $5)
+          RETURNING *;
+          `, [id, name, description, recovery, protection]);
+      
+
+      //output
+      return ailment;
+  }catch(err){
+      console.error(err);
+  }
+}
+
+const getAilmentById = async (id) => {
+  try {
+
+    const {rows: [ailment]} = await client.query(`
+    SELECT * FROM ailments
+    WHERE id = $1
+    `,[id]);
+
+    return ailment;
+
+  } catch (error) {
+    console.error("Error getting ailment by id!")
+    throw error;
+  }
+
+}
+
+
+const getAilmentByName = async (name) => {
+
+  try{
+
+    const {rows: [ailment]} = await client.query(`
+    SELECT * FROM ailments
+    WHERE name = $1
+    `,[name])
+
+    return ailment;
+  }catch (error){
+    console.error("Error getting ailment by name")
+    throw error;
+  }
+
+}
+
+const getAllAilments = async () => {
+
+  try {
+    const {rows} = await client.query(`
+    SELECT * FROM ailments
+    `)
+
+    return rows;
+
+  } catch (error) {
+    console.error('Error getting all ailments')
+    throw error;
+  }
+} 
+
+
 const ailments = [
     
         {
@@ -385,29 +453,10 @@ const ailments = [
         }
 ];
 
-// CREATE TABLE ailments(
-//         id SERIAL PRIMARY KEY,
-//         name VARCHAR(255) NOT NULL,
-//         description TEXT NOT NULL,
-//         recovery JSON NOT NULL,
-//         protection JSON NOT NULL
-//       );
-const createOneAilment = async({id, name, description, recovery, protection})=>{
-    try{
-        const {rows: [ailment]} = await client.query(`
-            INSERT INTO ailments(id, name, description, recovery, protection)
-            VALUES($1, $2, $3, $4, $5)
-            RETURNING *;
-            `, [id, name, description, recovery, protection]);
-        
-
-        //output
-        return ailment;
-    }catch(err){
-        console.error(err);
-    }
-}
 module.exports = {
     ailments,
-    createOneAilment
+    createOneAilment,
+    getAllAilments,
+    getAilmentById,
+    getAilmentByName
 }
