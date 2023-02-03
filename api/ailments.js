@@ -25,32 +25,32 @@ ailmentsRouter.get("/", async (req,res) => {
     }
 })
 
-ailmentsRouter.get("/:id", async (req,res) => {
+ailmentsRouter.get("/id/:id", async (req,res) => {
+    const { id } = req.params;
     
     try {
-        const id = req.params;
         const ailment = await getAilmentById(id);
     
         res.send(ailment);
         
     } catch (error) {
-        throw error
+        throw error;
     }
     
-})
+});
 
-ailmentsRouter.get("/:name", async (req,res) => {
+ailmentsRouter.get("/name/:name", async (req,res) => {
+    const { name } = req.params;
    
    try {
-       const {name} = req.params;
-       const ailment = await getAilmentByName(name)
+       const ailment = await getAilmentByName(name);
    
-       res.send(ailment)
+       res.send(ailment);
     
    } catch (error) {
     throw error;
    }
-})
+});
 
 
 module.exports = ailmentsRouter;
