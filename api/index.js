@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 
   const ailmentsRouter = require('./ailments');
-  // const armorRouter = require('./armor');
+  const armorRouter = require('./armor');
   // const charmsRouter = require('./charms');
   // const decoRouter = require('./decos');
   // const itemsRouter = require('./items');
@@ -12,7 +12,7 @@ const router = express.Router();
   // const skillsRouter = require('./skills');
 
   router.use('/ailments', ailmentsRouter);
-  // router.use('/armor', armorRouter);
+  router.use('/armor', armorRouter);
   // router.use('/charms', charmsRouter);
   // router.use('/decos', decoRouter);
   // router.use('/items', itemsRouter);
