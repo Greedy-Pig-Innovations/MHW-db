@@ -145,7 +145,7 @@ const dropTables = async () => {
       DROP TABLE IF EXISTS items;
       DROP TABLE IF EXISTS locations;
       DROP TABLE IF EXISTS monsters;
-      DROP TABLE IF exists skills;
+      DROP TABLE IF EXISTS skills;
       DROP TABLE IF EXISTS weapons;
       `);
   
