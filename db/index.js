@@ -8,5 +8,6 @@ module.exports = {
     ...require('./locations'),
     ...require('./monsters'),
     ...require('./sets'),
+    ...require('./skills'),
     ...require('./weapons'),
 }
