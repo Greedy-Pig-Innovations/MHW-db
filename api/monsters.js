@@ -1,6 +1,7 @@
 const express = require('express')
 const monstersRouter = express.Router();
-const {monsterData} = require('../db')
+const {monsterData} = require('../db');
+const { dataQuery } = require('./utils');
 
 
 
@@ -15,26 +16,7 @@ monstersRouter.use((req,res,next) => {
 });
 
 monstersRouter.get('/', (req, res) => {
-    console.log(req.query, 'This is the query');
-    let filteredRecords = monsterData;
-
-    // Filter the records based on query parameters
-    for (const key in req.query) {
-        filteredRecords = filteredRecords.filter(record => {
-            const nestedProperties = key.split('.');
-            let nestedValue = record;
-            for (let i = 0; i < nestedProperties.length; i++) {
-                nestedValue = nestedValue[nestedProperties[i]];
-                if (!nestedValue) {
-                    break;
-                }
-            }
-            return String(nestedValue) === String(req.query[key]);
-        });
-    }
-
-    // Return the filtered records as a JSON response
-    res.json(filteredRecords);
+    dataQuery(req,res,monsterData)
 });
 
 module.exports = monstersRouter;

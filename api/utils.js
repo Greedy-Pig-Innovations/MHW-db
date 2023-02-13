@@ -1,4 +1,4 @@
-const dataQuery = (data) => {
+const dataQuery = (req,res,data) => {
     console.log(req.query, 'This is the query');
     let filteredRecords = data;
 

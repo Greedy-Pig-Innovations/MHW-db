@@ -17,57 +17,6 @@ const createOneAilment = async({id, name, description, recovery, protection})=>{
   }
 }
 
-const getAilmentById = async (id) => {
-  try {
-
-    const {rows: [ailment]} = await client.query(`
-    SELECT * FROM ailments
-    WHERE id = $1
-    `,[id]);
-
-    return ailment;
-
-  } catch (error) {
-    console.error("Error getting ailment by id!")
-    throw error;
-  }
-
-}
-
-
-const getAilmentByName = async (name) => {
-
-  try{
-
-    const {rows: [ailment]} = await client.query(`
-    SELECT * FROM ailments
-    WHERE name = $1
-    `,[name])
-
-    return ailment;
-  }catch (error){
-    console.error("Error getting ailment by name")
-    throw error;
-  }
-
-}
-
-const getAllAilments = async () => {
-
-  try {
-    const {rows} = await client.query(`
-    SELECT * FROM ailments
-    `)
-
-    return rows;
-
-  } catch (error) {
-    console.error('Error getting all ailments')
-    throw error;
-  }
-} 
-
-
 const ailments = [
     
         {
@@ -455,8 +404,5 @@ const ailments = [
 
 module.exports = {
     ailments,
-    createOneAilment,
-    getAllAilments,
-    getAilmentById,
-    getAilmentByName
+    createOneAilment
 }
