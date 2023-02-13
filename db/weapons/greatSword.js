@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createGS = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [gs]} = await client.query(`
+        INSERT INTO gs(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets]);
+    
+        return gs;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const greatSwordData = [
     {
@@ -12925,5 +12943,6 @@ const greatSwordData = [
  ]
 
  module.exports = {
-     greatSwordData
+     greatSwordData,
+     createGS
  }

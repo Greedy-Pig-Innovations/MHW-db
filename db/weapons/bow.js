@@ -1,3 +1,22 @@
+const { client } = require("../client");
+
+const createBows = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,coatings,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [bow]} = await client.query(`
+        INSERT INTO bow(id,type,rarity,attack,elderseal,attributes,"damageType",name,coatings,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,coatings,slots,elements,crafting,assets]);
+    
+        return bow;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 
 const bowData = [
@@ -6894,5 +6913,6 @@ const bowData = [
  ]
 
  module.exports = {
-    bowData
+    bowData,
+    createBows
  }

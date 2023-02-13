@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createHammer = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [hammer]} = await client.query(`
+        INSERT INTO hammer(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets]);
+    
+        return hammer;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const hammerData = [
     {
@@ -12056,5 +12074,6 @@ const hammerData = [
  ]
 
  module.exports = {
-     hammerData
+     hammerData,
+     createHammer
  }

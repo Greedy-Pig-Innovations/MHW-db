@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createDB = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [db]} = await client.query(`
+        INSERT INTO db(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets]);
+    
+        return db;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const dualBladesData = [
     {
@@ -11961,7 +11979,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1285,
@@ -12050,7 +12070,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1286,
@@ -12142,7 +12164,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1287,
@@ -12234,7 +12258,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1288,
@@ -12326,7 +12352,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1289,
@@ -12417,7 +12445,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1290,
@@ -12509,7 +12539,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1291,
@@ -12602,7 +12634,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1292,
@@ -12690,7 +12724,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1293,
@@ -12782,7 +12818,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1294,
@@ -12874,7 +12912,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1295,
@@ -12966,7 +13006,9 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     },
     {
          id: 1296,
@@ -13058,10 +13100,13 @@ const dualBladesData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {
+          
+         }
     }
  ]
 
  module.exports = {
-     dualBladesData
+     dualBladesData,
+     createDB
  }

@@ -10,6 +10,7 @@ const router = express.Router();
   const monstersRouter = require('./monsters');
   const setsRouter = require('./sets');
   const skillsRouter = require('./skills');
+  const weaponsRouter = require('./weapons')
 
   router.use('/ailments', ailmentsRouter);
   router.use('/armor', armorRouter);
@@ -20,6 +21,7 @@ const router = express.Router();
   router.use('/monsters', monstersRouter);
   router.use('/sets', setsRouter);
   router.use('/skills', skillsRouter);
+  router.use('/weapons', weaponsRouter);
 
 
 

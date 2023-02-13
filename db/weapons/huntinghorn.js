@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createHorn = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [horn]} = await client.query(`
+        INSERT INTO horn(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets]);
+    
+        return horn;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const huntingHornData = [
     {
@@ -12152,5 +12170,6 @@ const huntingHornData = [
  ]
 
  module.exports = {
-     huntingHornData
+     huntingHornData,
+     createHorn
  }

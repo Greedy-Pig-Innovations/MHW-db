@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createGlaive = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,boostType,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [glaive]} = await client.query(`
+        INSERT INTO glaive(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,"boostType",slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,boostType,slots,elements,crafting,assets]);
+    
+        return glaive;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const glaiveData = [
     {
@@ -12029,5 +12047,6 @@ const glaiveData = [
  ]
 
  module.exports = {
-    glaiveData
+    glaiveData,
+    createGlaive
  }

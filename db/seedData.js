@@ -7,7 +7,88 @@ const {locationData, createLocs} = require('./locations');
 const {monsterData, createMonsters} = require('./monsters');
 const {setData, createSets} = require('./sets');
 const {skillData, createSkills} = require('./skills');
+const {bowData, createBows, 
+  chargeBladeData, createCB, 
+  dualBladesData, createDB, 
+  glaiveData, createGlaive, 
+  greatSwordData, createGS,
+  gunlanceData, createGL,
+  hammerData, createHammer,
+  hbgData, createHbg,
+  huntingHornData, createHorn, 
+  lanceData, createLance,
+  lbgData, createLbg,
+  longSwordData, createLs,
+  snsData, createSns,
+  switchAxeData, createSwaxe
+  } = require('./weapons')
 const { client } = require("./client");
+
+const createAllWeapons = async () => {
+  console.log('Creating Weapons')
+
+  try {
+    console.log('Bows start')
+    await Promise.all(bowData.map(createBows));
+    console.log('Bows done')
+
+    console.log('Charge Blade start')
+    await Promise.all(chargeBladeData.map(createCB));
+    console.log('Charge Blade done')
+
+    console.log('Dual Blades start')
+    await Promise.all(dualBladesData.map(createDB));
+    console.log('Dual Blades done')
+
+    console.log('Glaive start')
+    await Promise.all(glaiveData.map(createGlaive));
+    console.log('Glaive done')
+
+    console.log('Great Sword start')
+    await Promise.all(greatSwordData.map(createGS));
+    console.log('Great Sword done')
+
+    console.log('Gunlance start')
+    await Promise.all(gunlanceData.map(createGL));
+    console.log('Gunlance done')
+
+    console.log('Hammer start')
+    await Promise.all(hammerData.map(createHammer));
+    console.log('Hammer done')
+
+    console.log('Heavy bow gun start')
+    await Promise.all(hbgData.map(createHbg));
+    console.log(' done')
+
+    console.log('Hunting horn start')
+    await Promise.all(huntingHornData.map(createHorn));
+    console.log('Hunting horn done')
+
+    console.log('Lance start')
+    await Promise.all(lanceData.map(createLance));
+    console.log('Lance done')
+
+    console.log('Light bow gun start')
+    await Promise.all(lbgData.map(createLbg));
+    console.log('Light bow gun done')
+
+    console.log('Long Sword start')
+    await Promise.all(longSwordData.map(createLs));
+    console.log('Long Sword done')
+
+    console.log('Sword and Shield start')
+    await Promise.all(snsData.map(createSns));
+    console.log('Sword and Shield done')
+
+    console.log('Switch Axe start')
+    await Promise.all(switchAxeData.map(createSwaxe));
+    console.log('Switch Axe done')
+
+    
+  } catch (error) {
+    throw error
+  }
+}
 
 
 const createAilments = async()=>{
@@ -146,7 +227,21 @@ const dropTables = async () => {
       DROP TABLE IF EXISTS locations;
       DROP TABLE IF EXISTS monsters;
       DROP TABLE IF EXISTS skills;
-      DROP TABLE IF EXISTS weapons;
+      DROP TABLE IF EXISTS bow;
+      DROP TABLE IF EXISTS cb;
+      DROP TABLE IF EXISTS db;
+      DROP TABLE IF EXISTS glaive;
+      DROP TABLE IF EXISTS gs;
+      DROP TABLE IF EXISTS gl;
+      DROP TABLE IF EXISTS hammer;
+      DROP TABLE IF EXISTS hbg;
+      DROP TABLE IF EXISTS horn;
+      DROP TABLE IF EXISTS lance;
+      DROP TABLE IF EXISTS lbg;
+      DROP TABLE IF EXISTS ls;
+      DROP TABLE IF EXISTS sns;
+      DROP TABLE IF EXISTS swaxe;
+
       `);
   
       console.log("Finished dropping tables!");
@@ -249,19 +344,224 @@ const dropTables = async () => {
         description TEXT NOT NULL,
         ranks JSON[] NOT NULL
       );
-      CREATE TABLE weapons(
+      CREATE TABLE bow(
         id INTEGER PRIMARY KEY,
-        name VARCHAR(255) NOT NULL,
         type VARCHAR(255) NOT NULL,
         rarity INTEGER NOT NULL,
         attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        coatings TEXT[] NOT NULL,
         slots JSON[] NOT NULL,
         elements JSON[] NOT NULL,
         crafting JSON NOT NULL,
-        assets JSON NOT NULL,
-        durability JSON[],
-        attributes JSON NOT NULL     
-      ); 
+        assets JSON NOT NULL
+      );
+      CREATE TABLE cb(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        phial JSON NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE db(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE glaive(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        "boostType" TEXT NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE gs(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE gl(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        shelling JSON NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE hammer(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE hbg(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        "specialAmmo" TEXT,
+        deviation TEXT, 
+        ammo JSON[] NOT NULL, 
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE horn(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE lance(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE lbg(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        "specialAmmo" TEXT,
+        deviation TEXT, 
+        ammo JSON[] NOT NULL, 
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE ls(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE sns(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
+      CREATE TABLE swaxe(
+        id INTEGER PRIMARY KEY,
+        type VARCHAR(255) NOT NULL,
+        rarity INTEGER NOT NULL,
+        attack JSON NOT NULL,
+        elderseal TEXT,
+        attributes JSON NOT NULL,
+        "damageType" TEXT,     
+        name VARCHAR(255) NOT NULL,
+        durability JSON[] NOT NULL,
+        phial JSON NOT NULL,
+        slots JSON[] NOT NULL,
+        elements JSON[] NOT NULL,
+        crafting JSON NOT NULL,
+        assets JSON NOT NULL
+      );
 
       `);
 
@@ -287,6 +587,7 @@ const dropTables = async () => {
       await createAllMonsters();
       await createAllSets();
       await createAllSkills();
+      await createAllWeapons();
 
     } catch (error) {
       console.error("Error rebuilding database!");

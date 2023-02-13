@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createCB = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,phial,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [cb]} = await client.query(`
+        INSERT INTO cb(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,phial,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,phial,slots,elements,crafting,assets]);
+    
+        return cb;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const chargeBladeData = [
     {
@@ -11211,5 +11229,6 @@ const chargeBladeData = [
  ]
 
  module.exports = {
-     chargeBladeData
+     chargeBladeData,
+     createCB
  }

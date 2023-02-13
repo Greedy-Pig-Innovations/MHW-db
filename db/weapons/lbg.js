@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createLbg = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,specialAmmo,deviation,ammo,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [lbg]} = await client.query(`
+        INSERT INTO lbg(id,type,rarity,attack,elderseal,attributes,"damageType",name,"specialAmmo",deviation,ammo,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,specialAmmo,deviation,ammo,slots,elements,crafting,assets]);
+    
+        return lbg;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 
 const lbgData = [
@@ -13670,10 +13688,11 @@ const lbgData = [
                 }
             ]
         },
-         assets: null
+         assets: {}
     }
  ]
 
  module.exports = {
-    lbgData
+    lbgData,
+    createLbg
  }

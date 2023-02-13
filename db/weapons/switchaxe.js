@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createSwaxe = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,phial,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [swaxe]} = await client.query(`
+        INSERT INTO swaxe(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,phial,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,phial,slots,elements,crafting,assets]);
+    
+        return swaxe;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const switchAxeData = [
     {
@@ -11878,5 +11896,6 @@ const switchAxeData = [
  ]
 
  module.exports = {
-     switchAxeData
+     switchAxeData,
+     createSwaxe
  }

@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createSns = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [sns]} = await client.query(`
+        INSERT INTO sns(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets]);
+    
+        return sns;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const snsData = [
     {
@@ -13211,7 +13229,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1298,
@@ -13304,7 +13322,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1299,
@@ -13397,7 +13415,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1300,
@@ -13489,7 +13507,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1301,
@@ -13581,7 +13599,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1302,
@@ -13673,7 +13691,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1303,
@@ -13766,7 +13784,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1304,
@@ -13858,7 +13876,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1305,
@@ -13950,7 +13968,7 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1306,
@@ -14042,11 +14060,12 @@ const snsData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     }
  ]
 
 
  module.exports = {
-     snsData
+     snsData,
+     createSns
  }

@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createHbg = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,specialAmmo,deviation,ammo,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [hbg]} = await client.query(`
+        INSERT INTO hbg(id,type,rarity,attack,elderseal,attributes,"damageType",name,"specialAmmo",deviation,ammo,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,specialAmmo,deviation,ammo,slots,elements,crafting,assets]);
+    
+        return hbg;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const hbgData = [
     {
@@ -13870,7 +13888,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1248,
@@ -13958,7 +13976,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1249,
@@ -14048,7 +14066,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1250,
@@ -14151,7 +14169,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1251,
@@ -14244,7 +14262,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1252,
@@ -14337,7 +14355,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1253,
@@ -14438,7 +14456,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1254,
@@ -14569,7 +14587,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1255,
@@ -14683,7 +14701,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1256,
@@ -14803,7 +14821,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1257,
@@ -14918,7 +14936,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1258,
@@ -15043,7 +15061,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1259,
@@ -15175,7 +15193,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1260,
@@ -15265,7 +15283,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1261,
@@ -15368,7 +15386,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1264,
@@ -15461,7 +15479,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1265,
@@ -15592,7 +15610,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1266,
@@ -15706,7 +15724,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1267,
@@ -15826,7 +15844,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1268,
@@ -15941,7 +15959,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1269,
@@ -16073,7 +16091,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1270,
@@ -16166,7 +16184,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1271,
@@ -16289,7 +16307,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1272,
@@ -16418,7 +16436,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1273,
@@ -16514,7 +16532,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1274,
@@ -16624,7 +16642,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1275,
@@ -16741,7 +16759,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1276,
@@ -16868,7 +16886,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1277,
@@ -16987,7 +17005,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1278,
@@ -17106,7 +17124,7 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1279,
@@ -17240,10 +17258,11 @@ const hbgData = [
              craftingMaterials: [],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     }
 ]
 
 module.exports = {
-    hbgData
+    hbgData,
+    createHbg
 }

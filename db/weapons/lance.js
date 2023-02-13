@@ -1,4 +1,22 @@
+const { client } = require("../client");
 
+const createLance = async ({id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets}) => {
+
+    try {
+
+        const {rows: [lance]} = await client.query(`
+        INSERT INTO lance(id,type,rarity,attack,elderseal,attributes,"damageType",name,durability,slots,elements,crafting,assets)
+        VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13)
+        RETURNING *;
+        `,[id,type,rarity,attack,elderseal,attributes,damageType,name,durability,slots,elements,crafting,assets]);
+    
+        return lance;
+        
+      } catch (error) {
+        throw error
+      }
+
+    } 
 
 const lanceData = [
     {
@@ -12179,7 +12197,7 @@ const lanceData = [
             ],
             upgradeMaterials: []
         },
-         assets: null
+         assets: {}
     },
     {
          id: 1214,
@@ -12309,10 +12327,11 @@ const lanceData = [
                 }
             ]
         },
-         assets: null
+         assets: {}
     }
  ]
 
  module.exports = {
-    lanceData
+    lanceData,
+    createLance
  }

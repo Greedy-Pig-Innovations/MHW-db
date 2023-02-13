@@ -1,4 +1,5 @@
 module.exports = {
+    ...require('../client'),
     ...require('./bow'),
     ...require('./chargeblade'),
     ...require('./dualblades'),
