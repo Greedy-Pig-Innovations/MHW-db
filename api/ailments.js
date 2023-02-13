@@ -1,7 +1,5 @@
 const express = require('express');
 const ailmentsRouter = express.Router();
-
-const {getAllAilments, getAilmentById, getAilmentByName} = require('../db');
 const { ailments } = require('../db/ailments');
 const { dataQuery } = require('./utils');
 

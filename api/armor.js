@@ -1,7 +1,6 @@
 const express = require('express')
 const armorRouter = express.Router();
 const {armorData} = require('../db')
-const {getAllArmor} = require('../db');
 const { dataQuery } = require('./utils');
 
 
